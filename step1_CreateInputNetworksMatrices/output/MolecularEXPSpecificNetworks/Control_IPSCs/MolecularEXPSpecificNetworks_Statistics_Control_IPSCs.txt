@@ -1,0 +1,20 @@
+PPI_General_Biogrid 
+ genes: 11415 
+ interactions: 244337
+ density: 0.0037506405862393517
+
+MI_General_KEGG 
+ genes: 1076 
+ interactions: 26284
+ density: 0.04544652891847497
+
+GI_General_BIOGRID+Rohusher 
+ genes: 5360 
+ interactions: 17027
+ density: 0.0011855492086126562
+
+COEX_General_CoexpressDB 
+ genes: 11399 
+ interactions: 1503243
+ density: 0.023140022641538128
+
