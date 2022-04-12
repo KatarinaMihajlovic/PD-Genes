@@ -1,0 +1,2 @@
+Net_comb	k1	k2	dispersionCoefG1	dispersionCoefG2
+ALL	125	175	0.96088458139125	0.944517890841564

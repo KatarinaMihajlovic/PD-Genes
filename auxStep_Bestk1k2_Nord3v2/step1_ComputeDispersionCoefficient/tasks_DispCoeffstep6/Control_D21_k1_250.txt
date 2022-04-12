@@ -1,0 +1,8 @@
+python ComputeDispersionCoefficient.py Control_D21 250 50
+python ComputeDispersionCoefficient.py Control_D21 250 75
+python ComputeDispersionCoefficient.py Control_D21 250 100
+python ComputeDispersionCoefficient.py Control_D21 250 125
+python ComputeDispersionCoefficient.py Control_D21 250 150
+python ComputeDispersionCoefficient.py Control_D21 250 175
+python ComputeDispersionCoefficient.py Control_D21 250 200
+python ComputeDispersionCoefficient.py Control_D21 250 250

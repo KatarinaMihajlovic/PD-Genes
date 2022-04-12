@@ -1,0 +1,10 @@
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 10
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 20
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 30
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 40
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 50
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 60
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 70
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 80
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 90
+python ComputeDispersionCoefficient.py PINK1_IPSCs 30 100

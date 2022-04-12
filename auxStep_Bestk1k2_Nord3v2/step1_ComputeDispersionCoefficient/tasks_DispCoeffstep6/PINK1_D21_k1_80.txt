@@ -1,0 +1,10 @@
+python ComputeDispersionCoefficient.py PINK1_D21 80 10
+python ComputeDispersionCoefficient.py PINK1_D21 80 20
+python ComputeDispersionCoefficient.py PINK1_D21 80 30
+python ComputeDispersionCoefficient.py PINK1_D21 80 40
+python ComputeDispersionCoefficient.py PINK1_D21 80 50
+python ComputeDispersionCoefficient.py PINK1_D21 80 60
+python ComputeDispersionCoefficient.py PINK1_D21 80 70
+python ComputeDispersionCoefficient.py PINK1_D21 80 80
+python ComputeDispersionCoefficient.py PINK1_D21 80 90
+python ComputeDispersionCoefficient.py PINK1_D21 80 100

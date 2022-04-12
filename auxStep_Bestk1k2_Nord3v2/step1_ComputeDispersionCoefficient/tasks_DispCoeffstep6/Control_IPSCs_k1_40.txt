@@ -1,0 +1,10 @@
+python ComputeDispersionCoefficient.py Control_IPSCs 40 10
+python ComputeDispersionCoefficient.py Control_IPSCs 40 20
+python ComputeDispersionCoefficient.py Control_IPSCs 40 30
+python ComputeDispersionCoefficient.py Control_IPSCs 40 40
+python ComputeDispersionCoefficient.py Control_IPSCs 40 50
+python ComputeDispersionCoefficient.py Control_IPSCs 40 60
+python ComputeDispersionCoefficient.py Control_IPSCs 40 70
+python ComputeDispersionCoefficient.py Control_IPSCs 40 80
+python ComputeDispersionCoefficient.py Control_IPSCs 40 90
+python ComputeDispersionCoefficient.py Control_IPSCs 40 100

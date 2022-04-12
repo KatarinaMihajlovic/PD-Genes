@@ -1,0 +1,1322 @@
+[2022-02-28 11:28:38] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_125.txt
+[2022-02-28 11:28:38] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:38] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:38] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:33] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_75.txt
+[2022-02-28 11:28:33] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:33] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:33] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:38] INFO: Run on 5 nodes
+[2022-02-28 11:28:38] INFO: Job ID 889106
+[2022-02-28 11:28:33] INFO: Run on 5 nodes
+[2022-02-28 11:28:38] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:33] INFO: Job ID 889104
+[2022-02-28 11:28:38] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:38] INFO: Worker 1 on node s04r2b04
+[2022-02-28 11:28:38] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:33] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:38] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:38] INFO: Worker 2 on node s04r1b48
+[2022-02-28 11:28:38] INFO: Worker 3 on node s04r1b48
+[2022-02-28 11:28:38] INFO: Worker 4 on node s04r1b45
+[2022-02-28 11:28:38] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:33] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:33] INFO: Worker 1 on node s04r2b45
+[2022-02-28 11:27:41] INFO: Worker 2 on node s04r2b44
+[2022-02-28 11:28:38] INFO: Worker 5 on node s04r1b45
+[2022-02-28 11:28:38] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:38] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:33] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:38] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:38] INFO: Worker 6 on node s04r1b46
+[2022-02-28 11:27:41] INFO: Worker 3 on node s04r2b44
+[2022-02-28 11:28:38] INFO: Worker 7 on node s04r1b46
+[2022-02-28 11:28:33] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:26] INFO: Worker 8 on node s04r1b50
+[2022-02-28 11:28:37] INFO: Worker 4 on node s04r2b47
+[2022-02-28 11:28:33] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:33] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:33] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:33] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:55] INFO: Worker 8 on node s04r2b43
+[2022-02-28 11:28:37] INFO: Worker 5 on node s04r2b47
+[2022-02-28 11:28:36] INFO: Worker 6 on node s04r2b46
+[2022-02-28 11:28:36] INFO: Worker 7 on node s04r2b46
+[2022-02-28 11:28:37] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_100.txt
+[2022-02-28 11:28:37] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:37] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:37] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:38] INFO: Run on 5 nodes
+[2022-02-28 11:28:38] INFO: Job ID 889105
+[2022-02-28 11:28:38] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:38] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:38] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:38] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:38] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:38] INFO: Worker 1 on node s04r2b48
+[2022-02-28 11:28:38] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:38] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:38] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:38] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:38] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:38] INFO: Worker 3 on node s04r1b44
+[2022-02-28 11:28:38] INFO: Worker 7 on node s04r1b47
+[2022-02-28 11:28:38] INFO: Worker 6 on node s04r1b47
+[2022-02-28 11:28:38] INFO: Worker 9 on node s04r2b02
+[2022-02-28 11:28:38] INFO: Worker 8 on node s04r2b02
+[2022-02-28 11:28:39] INFO: Worker 4 on node s04r1b43
+[2022-02-28 11:28:39] INFO: Worker 5 on node s04r1b43
+[2022-02-28 11:28:38] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_200.txt
+[2022-02-28 11:28:38] INFO: Worker 10 on node s04r2b48
+[2022-02-28 11:28:38] INFO: Worker 2 on node s04r1b44
+[2022-02-28 11:28:38] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:38] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:38] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:38] INFO: Run on 5 nodes
+[2022-02-28 11:28:38] INFO: Job ID 889109
+[2022-02-28 11:28:38] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:38] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:38] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:38] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:38] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:38] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:38] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:38] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:38] INFO: Worker 1 on node s04r1b56
+[2022-02-28 11:28:38] INFO: Worker 3 on node s04r1b66
+[2022-02-28 11:28:38] INFO: Worker 2 on node s04r1b66
+[2022-02-28 11:28:38] INFO: Worker 8 on node s04r1b61
+[2022-02-28 11:28:38] INFO: Worker 6 on node s04r1b58
+[2022-02-28 11:28:38] INFO: Worker 7 on node s04r1b58
+[2022-02-28 11:28:38] INFO: Worker 4 on node s04r1b57
+[2022-02-28 11:28:38] INFO: Worker 5 on node s04r1b57
+[2022-02-28 11:28:39] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_250.txt
+[2022-02-28 11:28:39] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:39] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:39] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:39] INFO: Run on 5 nodes
+[2022-02-28 11:28:39] INFO: Job ID 889110
+[2022-02-28 11:28:39] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:39] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:39] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:39] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:39] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:39] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:39] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:39] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:39] INFO: Worker 1 on node s04r1b15
+[2022-02-28 11:28:39] INFO: Worker 5 on node s04r1b20
+[2022-02-28 11:28:39] INFO: Worker 4 on node s04r1b20
+[2022-02-28 11:28:38] INFO: Worker 6 on node s04r1b22
+[2022-02-28 11:28:38] INFO: Worker 7 on node s04r1b22
+[2022-02-28 11:28:39] INFO: Worker 8 on node s04r1b18
+[2022-02-28 11:28:39] INFO: Worker 3 on node s04r1b13
+[2022-02-28 11:28:39] INFO: Worker 2 on node s04r1b13
+[2022-02-28 11:28:39] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_175.txt
+[2022-02-28 11:28:39] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:39] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:39] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:39] INFO: Run on 5 nodes
+[2022-02-28 11:28:39] INFO: Job ID 889115
+[2022-02-28 11:28:39] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:39] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:39] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:39] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:39] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:39] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:39] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:39] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:39] INFO: Worker 1 on node s04r2b78
+[2022-02-28 11:28:49] INFO: Worker 7 on node s04r2b83
+[2022-02-28 11:28:49] INFO: Worker 6 on node s04r2b83
+[2022-02-28 11:28:43] INFO: Worker 2 on node s04r2b75
+[2022-02-28 11:28:43] INFO: Worker 3 on node s04r2b75
+[2022-02-28 11:28:40] INFO: Worker 4 on node s04r2b80
+[2022-02-28 11:28:40] INFO: Worker 5 on node s04r2b80
+[2022-02-28 11:28:38] INFO: Worker 8 on node s04r2b81
+[2022-02-28 11:28:39] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_75.txt
+[2022-02-28 11:28:39] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:39] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:39] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:40] INFO: Run on 5 nodes
+[2022-02-28 11:28:40] INFO: Job ID 889111
+[2022-02-28 11:28:40] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:40] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:40] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:40] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:40] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:40] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:40] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:40] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:41] INFO: Worker 2 on node s04r1b14
+[2022-02-28 11:28:41] INFO: Worker 3 on node s04r1b14
+[2022-02-28 11:28:40] INFO: Worker 5 on node s04r1b17
+[2022-02-28 11:28:40] INFO: Worker 4 on node s04r1b17
+[2022-02-28 11:28:40] INFO: Worker 6 on node s04r1b24
+[2022-02-28 11:28:40] INFO: Worker 7 on node s04r1b24
+[2022-02-28 11:28:40] INFO: Worker 1 on node s04r1b23
+[2022-02-28 11:28:40] INFO: Worker 8 on node s04r1b19
+[2022-02-28 11:28:39] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_200.txt
+[2022-02-28 11:28:39] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:39] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:39] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:39] INFO: Run on 5 nodes
+[2022-02-28 11:28:39] INFO: Job ID 889116
+[2022-02-28 11:28:39] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:39] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:39] INFO: Worker 1 on node s04r2b76
+[2022-02-28 11:28:39] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:39] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:39] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:39] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:39] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:39] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:12] INFO: Worker 4 on node s04r2b69
+[2022-02-28 11:28:37] INFO: Worker 2 on node s04r2b68
+[2022-02-28 11:28:37] INFO: Worker 3 on node s04r2b68
+[2022-02-28 11:28:47] INFO: Worker 8 on node s04r2b84
+[2022-02-28 11:28:40] INFO: Worker 7 on node s04r2b73
+[2022-02-28 11:28:12] INFO: Worker 5 on node s04r2b69
+[2022-02-28 11:28:40] INFO: Worker 6 on node s04r2b73
+[2022-02-28 11:28:39] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_60.txt
+[2022-02-28 11:27:44] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_150.txt
+[2022-02-28 11:28:40] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_125.txt
+[2022-02-28 11:29:41] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_50.txt
+[2022-02-28 11:28:39] INFO: File with 10 correct Tasks
+[2022-02-28 11:27:44] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:40] INFO: File with 8 correct Tasks
+[2022-02-28 11:29:41] INFO: File with 10 correct Tasks
+[2022-02-28 11:29:41] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:39] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:27:44] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:40] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:29:41] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:39] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:27:44] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:40] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:40] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_100.txt
+[2022-02-28 11:29:41] INFO: Run on 5 nodes
+[2022-02-28 11:28:39] INFO: Run on 5 nodes
+[2022-02-28 11:28:39] INFO: Job ID 889123
+[2022-02-28 11:27:44] INFO: Run on 5 nodes
+[2022-02-28 11:28:41] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:41] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:41] INFO: Run on 5 nodes
+[2022-02-28 11:29:41] INFO: Job ID 889122
+[2022-02-28 11:28:39] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:27:44] INFO: Job ID 889107
+[2022-02-28 11:28:41] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:41] INFO: Job ID 889113
+[2022-02-28 11:29:41] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:39] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:39] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:39] INFO: Worker 1 on node s04r2b14
+[2022-02-28 11:28:39] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:39] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:39] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:39] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:39] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:39] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:39] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:39] INFO: Worker 10 on node s04r2b14
+[2022-02-28 11:27:44] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:41] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:29:41] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:38] INFO: Worker 3 on node s04r2b20
+[2022-02-28 11:28:38] INFO: Worker 2 on node s04r2b20
+[2022-02-28 11:28:41] INFO: Worker 8 on node s04r2b12
+[2022-02-28 11:28:41] INFO: Worker 9 on node s04r2b12
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r2b15
+[2022-02-28 11:28:41] INFO: Worker 4 on node s04r2b09
+[2022-02-28 11:28:41] INFO: Run on 5 nodes
+[2022-02-28 11:28:41] INFO: Job ID 889112
+[2022-02-28 11:27:44] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:41] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:41] INFO: Worker 1 on node s04r2b61
+[2022-02-28 11:28:41] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:29:41] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:36] INFO: Worker 2 on node s04r2b16
+[2022-02-28 11:28:36] INFO: Worker 3 on node s04r2b16
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r2b15
+[2022-02-28 11:28:41] INFO: Worker 5 on node s04r2b09
+[2022-02-28 11:28:41] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:39] INFO: Worker 2 on node s04r1b64
+[2022-02-28 11:27:44] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:27:44] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:27:44] INFO: Worker 1 on node s04r1b63
+[2022-02-28 11:27:44] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:27:44] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:27:44] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:27:44] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:41] INFO: Worker 2 on node s04r2b66
+[2022-02-28 11:28:41] INFO: Worker 3 on node s04r2b66
+[2022-02-28 11:28:41] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:29:41] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:29:41] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:29:41] INFO: Worker 1 on node s04r2b19
+[2022-02-28 11:29:41] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:29:41] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:29:41] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:37] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_175.txt
+[2022-02-28 11:28:41] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:41] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:41] INFO: Worker 1 on node s04r1b21
+[2022-02-28 11:28:41] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:40] INFO: Worker 3 on node s04r1b64
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r1b60
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r1b60
+[2022-02-28 11:28:09] INFO: Worker 8 on node s04r1b65
+[2022-02-28 11:28:39] INFO: Worker 4 on node s04r1b55
+[2022-02-28 11:28:41] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:40] INFO: Worker 4 on node s04r2b57
+[2022-02-28 11:28:40] INFO: Worker 5 on node s04r2b57
+[2022-02-28 11:28:42] INFO: Worker 4 on node s04r2b21
+[2022-02-28 11:28:38] INFO: Worker 8 on node s04r2b24
+[2022-02-28 11:29:41] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:29:41] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r2b23
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r2b23
+[2022-02-28 11:28:33] INFO: Worker 2 on node s04r2b62
+[2022-02-28 11:28:33] INFO: Worker 3 on node s04r2b62
+[2022-02-28 11:28:42] INFO: Worker 4 on node s04r2b56
+[2022-02-28 11:28:41] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:41] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:37] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:37] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:37] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:31] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_30.txt
+[2022-02-28 11:28:39] INFO: Worker 5 on node s04r1b55
+[2022-02-28 11:28:41] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:42] INFO: Worker 5 on node s04r2b21
+[2022-02-28 11:28:38] INFO: Worker 9 on node s04r2b24
+[2022-02-28 11:29:41] INFO: Worker 10 on node s04r2b19
+[2022-02-28 11:28:37] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_10.txt
+[2022-02-28 11:28:42] INFO: Worker 5 on node s04r2b56
+[2022-02-28 11:28:41] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:41] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:47] INFO: Worker 6 on node s04r2b65
+[2022-02-28 11:28:47] INFO: Worker 7 on node s04r2b65
+[2022-02-28 11:28:37] INFO: Run on 5 nodes
+[2022-02-28 11:28:37] INFO: Job ID 889108
+[2022-02-28 11:28:31] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:41] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:39] INFO: Worker 6 on node s04r2b58
+[2022-02-28 11:28:39] INFO: Worker 7 on node s04r2b58
+[2022-02-28 11:28:37] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:37] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:41] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:41] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:41] INFO: Worker 8 on node s04r2b51
+[2022-02-28 11:28:37] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:31] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:41] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:40] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_80.txt
+[2022-02-28 11:28:23] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_150.txt
+[2022-02-28 11:28:37] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:41] INFO: Worker 10 on node s04r1b21
+[2022-02-28 11:28:41] INFO: Worker 9 on node s04r2b51
+[2022-02-28 11:28:37] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:31] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:40] INFO: Worker 8 on node s04r2b53
+[2022-02-28 11:28:40] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:40] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:24] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:24] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:27:55] INFO: Worker 2 on node s04r1b59
+[2022-02-28 11:28:37] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:37] INFO: Run on 5 nodes
+[2022-02-28 11:28:37] INFO: Job ID 889118
+[2022-02-28 11:28:37] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:37] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:37] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:37] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:37] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:37] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:37] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:37] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:37] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:37] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:37] INFO: Worker 1 on node s04r1b32
+[2022-02-28 11:28:37] INFO: Worker 10 on node s04r1b32
+[2022-02-28 11:28:40] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:24] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:27:55] INFO: Worker 3 on node s04r1b59
+[2022-02-28 11:28:37] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:37] INFO: Worker 1 on node s04r1b52
+[2022-02-28 11:28:38] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:38] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:38] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:38] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:40] INFO: Worker 4 on node s04r1b29
+[2022-02-28 11:28:40] INFO: Worker 5 on node s04r1b29
+[2022-02-28 11:28:37] INFO: Worker 6 on node s04r1b40
+[2022-02-28 11:28:37] INFO: Worker 7 on node s04r1b40
+[2022-02-28 11:28:40] INFO: Worker 2 on node s04r1b36
+[2022-02-28 11:28:42] INFO: Worker 8 on node s04r1b37
+[2022-02-28 11:28:41] INFO: Worker 8 on node s04r1b49
+[2022-02-28 11:28:41] INFO: Worker 4 on node s04r1b51
+[2022-02-28 11:28:41] INFO: Worker 5 on node s04r1b51
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r1b54
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r1b54
+[2022-02-28 11:28:32] INFO: Run on 5 nodes
+[2022-02-28 11:28:32] INFO: Job ID 889120
+[2022-02-28 11:28:40] INFO: Run on 5 nodes
+[2022-02-28 11:28:40] INFO: Job ID 889125
+[2022-02-28 11:28:24] INFO: Run on 5 nodes
+[2022-02-28 11:28:24] INFO: Job ID 889114
+[2022-02-28 11:28:24] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:24] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:24] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:24] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:24] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:24] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:24] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:24] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:24] INFO: Worker 1 on node s04r2b59
+[2022-02-28 11:28:40] INFO: Worker 3 on node s04r1b36
+[2022-02-28 11:28:41] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_40.txt
+[2022-02-28 11:28:32] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:32] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:32] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:32] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:32] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:32] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:32] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:32] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:32] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:32] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:32] INFO: Worker 1 on node s04r1b26
+[2022-02-28 11:28:32] INFO: Worker 10 on node s04r1b26
+[2022-02-28 11:28:40] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:29:10] INFO: Worker 2 on node s04r2b60
+[2022-02-28 11:29:10] INFO: Worker 3 on node s04r2b60
+[2022-02-28 11:28:41] INFO: Worker 5 on node s04r2b64
+[2022-02-28 11:28:41] INFO: Worker 4 on node s04r2b64
+[2022-02-28 11:28:44] INFO: Worker 8 on node s04r2b72
+[2022-02-28 11:28:35] INFO: Worker 6 on node s04r2b67
+[2022-02-28 11:28:42] INFO: Worker 9 on node s04r1b37
+[2022-02-28 11:28:41] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r1b34
+[2022-02-28 11:28:41] INFO: Worker 8 on node s04r1b30
+[2022-02-28 11:28:41] INFO: Worker 9 on node s04r1b30
+[2022-02-28 11:28:45] INFO: Worker 4 on node s04r1b35
+[2022-02-28 11:28:45] INFO: Worker 5 on node s04r1b35
+[2022-02-28 11:28:40] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:40] INFO: Worker 1 on node s04r2b38
+[2022-02-28 11:28:38] INFO: Worker 2 on node s04r1b28
+[2022-02-28 11:28:38] INFO: Worker 3 on node s04r1b28
+[2022-02-28 11:28:35] INFO: Worker 7 on node s04r2b67
+[2022-02-28 11:28:41] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r1b34
+[2022-02-28 11:28:40] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:41] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:34] INFO: Worker 2 on node s04r2b30
+[2022-02-28 11:28:34] INFO: Worker 3 on node s04r2b30
+[2022-02-28 11:28:39] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_20.txt
+[2022-02-28 11:28:42] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:41] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:41] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:43] INFO: Worker 4 on node s04r2b33
+[2022-02-28 11:28:43] INFO: Worker 5 on node s04r2b33
+[2022-02-28 11:28:39] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:39] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:40] INFO: Worker 6 on node s04r2b34
+[2022-02-28 11:28:41] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:41] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:42] INFO: Run on 5 nodes
+[2022-02-28 11:28:42] INFO: Job ID 889121
+[2022-02-28 11:28:39] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:40] INFO: Worker 7 on node s04r2b34
+[2022-02-28 11:28:42] INFO: Worker 8 on node s04r2b40
+[2022-02-28 11:28:41] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:41] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:42] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:42] INFO: Worker 9 on node s04r2b40
+[2022-02-28 11:28:41] INFO: Worker 10 on node s04r2b38
+[2022-02-28 11:28:42] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:42] INFO: Worker 1 on node s04r1b38
+[2022-02-28 11:28:42] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:42] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:42] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:42] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:42] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:42] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:42] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:42] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:42] INFO: Worker 10 on node s04r1b38
+[2022-02-28 11:28:42] INFO: Worker 8 on node s04r2b17
+[2022-02-28 11:28:42] INFO: Worker 9 on node s04r2b17
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r2b18
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r2b18
+[2022-02-28 11:28:42] INFO: Worker 2 on node s04r1b31
+[2022-02-28 11:28:42] INFO: Worker 3 on node s04r1b31
+[2022-02-28 11:28:40] INFO: Worker 5 on node s04r2b22
+[2022-02-28 11:28:40] INFO: Worker 4 on node s04r2b22
+[2022-02-28 11:28:39] INFO: Run on 5 nodes
+[2022-02-28 11:28:40] INFO: Job ID 889119
+[2022-02-28 11:28:40] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:40] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:40] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:40] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:40] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:40] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:40] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:40] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:40] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:40] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:40] INFO: Worker 1 on node s04r1b33
+[2022-02-28 11:28:40] INFO: Worker 10 on node s04r1b33
+[2022-02-28 11:28:40] INFO: Worker 6 on node s04r1b25
+[2022-02-28 11:28:40] INFO: Worker 7 on node s04r1b25
+[2022-02-28 11:28:39] INFO: Worker 9 on node s04r1b27
+[2022-02-28 11:28:39] INFO: Worker 8 on node s04r1b27
+[2022-02-28 11:32:03] INFO: Worker 3 on node s04r1b41
+[2022-02-28 11:32:03] INFO: Worker 2 on node s04r1b41
+[2022-02-28 11:28:42] INFO: Worker 5 on node s04r1b42
+[2022-02-28 11:28:42] INFO: Worker 4 on node s04r1b42
+[2022-02-28 11:28:42] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_250.txt
+[2022-02-28 11:28:42] INFO: File with 8 correct Tasks
+[2022-02-28 11:28:42] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:42] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:42] INFO: Run on 5 nodes
+[2022-02-28 11:28:42] INFO: Job ID 889117
+[2022-02-28 11:28:42] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:42] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:42] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:42] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:42] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:42] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:42] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:42] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:42] INFO: Worker 1 on node s04r2b77
+[2022-02-28 11:28:42] INFO: Worker 5 on node s04r2b82
+[2022-02-28 11:28:42] INFO: Worker 4 on node s04r2b82
+[2022-02-28 11:28:37] INFO: Worker 8 on node s04r1b39
+[2022-02-28 11:28:42] INFO: Worker 6 on node s04r2b79
+[2022-02-28 11:28:42] INFO: Worker 7 on node s04r2b79
+[2022-02-28 11:28:42] INFO: Worker 2 on node s04r2b71
+[2022-02-28 11:28:42] INFO: Worker 3 on node s04r2b71
+[2022-02-28 11:28:32] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_90.txt
+[2022-02-28 11:28:32] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:32] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:32] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:32] INFO: Run on 5 nodes
+[2022-02-28 11:28:32] INFO: Job ID 889126
+[2022-02-28 11:28:32] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:32] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:32] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:32] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:32] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:32] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:32] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:32] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:32] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:32] INFO: Worker 1 on node s04r2b35
+[2022-02-28 11:28:32] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:36] INFO: Worker 2 on node s04r2b29
+[2022-02-28 11:28:36] INFO: Worker 3 on node s04r2b29
+[2022-02-28 11:28:48] INFO: Worker 6 on node s04r2b41
+[2022-02-28 11:28:48] INFO: Worker 7 on node s04r2b41
+[2022-02-28 11:28:42] INFO: Worker 8 on node s04r2b32
+[2022-02-28 11:28:42] INFO: Worker 9 on node s04r2b32
+[2022-02-28 11:28:46] INFO: Worker 5 on node s04r2b37
+[2022-02-28 11:28:46] INFO: Worker 4 on node s04r2b37
+[2022-02-28 11:28:32] INFO: Worker 10 on node s04r2b35
+[2022-02-28 11:28:42] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_100.txt
+[2022-02-28 11:28:42] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:42] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:42] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:42] INFO: Run on 5 nodes
+[2022-02-28 11:28:42] INFO: Job ID 889127
+[2022-02-28 11:28:42] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:42] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:42] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:42] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:42] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:42] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:42] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:42] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:42] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:42] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:42] INFO: Worker 1 on node s04r2b27
+[2022-02-28 11:28:42] INFO: Worker 10 on node s04r2b27
+[2022-02-28 11:28:42] INFO: Worker 3 on node s04r2b36
+[2022-02-28 11:28:42] INFO: Worker 2 on node s04r2b36
+[2022-02-28 11:28:40] INFO: Worker 5 on node s04r1b81
+[2022-02-28 11:28:40] INFO: Worker 4 on node s04r1b81
+[2022-02-28 11:28:41] INFO: Worker 6 on node s04r1b78
+[2022-02-28 11:28:41] INFO: Worker 7 on node s04r1b78
+[2022-02-28 11:28:41] INFO: Worker 9 on node s04r1b80
+[2022-02-28 11:28:41] INFO: Worker 8 on node s04r1b80
+[2022-02-28 11:29:08] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_10.txt
+[2022-02-28 11:28:38] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_70.txt
+[2022-02-28 11:29:08] INFO: File with 10 correct Tasks
+[2022-02-28 11:29:08] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:38] INFO: File with 10 correct Tasks
+[2022-02-28 11:29:08] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:38] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:38] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:29:09] INFO: Run on 5 nodes
+[2022-02-28 11:29:09] INFO: Job ID 889128
+[2022-02-28 11:29:09] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:29:09] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:29:09] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:29:09] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:29:09] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:29:09] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:29:09] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:29:09] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:29:09] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:29:09] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:29:09] INFO: Worker 1 on node s04r1b83
+[2022-02-28 11:29:09] INFO: Worker 10 on node s04r1b83
+[2022-02-28 11:28:37] INFO: Worker 9 on node s04r1b82
+[2022-02-28 11:28:37] INFO: Worker 8 on node s04r1b82
+[2022-02-28 11:28:42] INFO: Worker 5 on node s04r1b76
+[2022-02-28 11:28:42] INFO: Worker 4 on node s04r1b76
+[2022-02-28 11:28:46] INFO: Worker 3 on node s04r1b84
+[2022-02-28 11:28:49] INFO: Worker 6 on node s04r1b79
+[2022-02-28 11:28:38] INFO: Run on 5 nodes
+[2022-02-28 11:28:46] INFO: Worker 2 on node s04r1b84
+[2022-02-28 11:28:49] INFO: Worker 7 on node s04r1b79
+[2022-02-28 11:28:38] INFO: Job ID 889124
+[2022-02-28 11:28:38] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:38] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:38] INFO: Worker 1 on node s04r2b26
+[2022-02-28 11:28:38] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:38] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:38] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:38] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:38] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:38] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:38] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:38] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:38] INFO: Worker 10 on node s04r2b26
+[2022-02-28 11:28:44] INFO: Worker 4 on node s04r2b39
+[2022-02-28 11:28:44] INFO: Worker 5 on node s04r2b39
+[2022-02-28 11:28:45] INFO: Worker 7 on node s04r2b42
+[2022-02-28 11:28:45] INFO: Worker 6 on node s04r2b42
+[2022-02-28 11:28:31] INFO: Worker 8 on node s04r2b25
+[2022-02-28 11:28:41] INFO: Worker 2 on node s04r2b31
+[2022-02-28 11:28:41] INFO: Worker 3 on node s04r2b31
+[2022-02-28 11:28:31] INFO: Worker 9 on node s04r2b25
+[2022-02-28 11:28:40] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_20.txt
+[2022-02-28 11:28:40] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:40] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:40] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:40] INFO: Run on 5 nodes
+[2022-02-28 11:28:40] INFO: Job ID 889129
+[2022-02-28 11:28:40] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:40] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:40] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:40] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:40] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:40] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:40] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:40] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:40] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:40] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:40] INFO: Worker 1 on node s04r1b72
+[2022-02-28 11:28:40] INFO: Worker 10 on node s04r1b72
+[2022-02-28 11:28:42] INFO: Worker 6 on node s04r1b71
+[2022-02-28 11:28:43] INFO: Worker 9 on node s04r1b73
+[2022-02-28 11:28:48] INFO: Worker 5 on node s04r1b77
+[2022-02-28 11:28:48] INFO: Worker 4 on node s04r1b77
+[2022-02-28 11:28:09] INFO: Worker 2 on node s04r1b74
+[2022-02-28 11:28:09] INFO: Worker 3 on node s04r1b74
+[2022-02-28 11:28:42] INFO: Worker 7 on node s04r1b71
+[2022-02-28 11:28:43] INFO: Worker 8 on node s04r1b73
+[2022-02-28 11:28:43] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_30.txt
+[2022-02-28 11:28:43] INFO: File with 10 correct Tasks
+[2022-02-28 11:28:43] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:28:43] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:28:43] INFO: Run on 5 nodes
+[2022-02-28 11:28:43] INFO: Job ID 889130
+[2022-02-28 11:28:43] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:28:43] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:28:43] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:28:43] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:28:43] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:28:43] INFO: Worker 1 on node s04r1b67
+[2022-02-28 11:28:43] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:28:43] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:28:43] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:28:43] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:28:43] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:28:43] INFO: Worker 10 on node s04r1b67
+[2022-02-28 11:28:43] INFO: Worker 3 on node s04r1b68
+[2022-02-28 11:28:43] INFO: Worker 5 on node s04r1b69
+[2022-02-28 11:28:43] INFO: Worker 4 on node s04r1b69
+[2022-02-28 11:28:43] INFO: Worker 6 on node s04r1b75
+[2022-02-28 11:28:43] INFO: Worker 7 on node s04r1b75
+[2022-02-28 11:28:43] INFO: Worker 8 on node s04r1b70
+[2022-02-28 11:28:43] INFO: Worker 9 on node s04r1b70
+[2022-02-28 11:28:43] INFO: Worker 2 on node s04r1b68
+[2022-02-28 11:40:10] INFO: Task 1 located in line 1 completed successfully on node s04r1b83. Elapsed: 00:11:01
+[2022-02-28 11:40:22] INFO: Task 2 located in line 2 completed successfully on node s04r1b84. Elapsed: 00:11:13
+[2022-02-28 11:39:59] INFO: Task 1 located in line 1 completed successfully on node s04r1b32. Elapsed: 00:11:21
+[2022-02-28 11:40:37] INFO: Task 4 located in line 4 completed successfully on node s04r1b76. Elapsed: 00:11:28
+[2022-02-28 11:40:40] INFO: Task 3 located in line 3 completed successfully on node s04r1b84. Elapsed: 00:11:31
+[2022-02-28 11:40:41] INFO: Task 5 located in line 5 completed successfully on node s04r1b76. Elapsed: 00:11:32
+[2022-02-28 11:40:17] INFO: Task 4 located in line 4 completed successfully on node s04r1b29. Elapsed: 00:11:39
+[2022-02-28 11:40:18] INFO: Task 2 located in line 2 completed successfully on node s04r1b36. Elapsed: 00:11:40
+[2022-02-28 11:40:53] INFO: Task 6 located in line 6 completed successfully on node s04r1b79. Elapsed: 00:11:44
+[2022-02-28 11:40:28] INFO: Task 3 located in line 3 completed successfully on node s04r1b36. Elapsed: 00:11:50
+[2022-02-28 11:40:59] INFO: Task 7 located in line 7 completed successfully on node s04r1b79. Elapsed: 00:11:49
+[2022-02-28 11:40:33] INFO: Task 6 located in line 6 completed successfully on node s04r1b40. Elapsed: 00:11:55
+[2022-02-28 11:40:38] INFO: Task 5 located in line 5 completed successfully on node s04r1b29. Elapsed: 00:12:00
+[2022-02-28 11:40:51] INFO: Task 7 located in line 7 completed successfully on node s04r1b40. Elapsed: 00:12:13
+[2022-02-28 11:40:56] INFO: Task 8 located in line 8 completed successfully on node s04r1b37. Elapsed: 00:12:18
+[2022-02-28 11:41:26] INFO: Task 8 located in line 8 completed successfully on node s04r1b82. Elapsed: 00:12:17
+[2022-02-28 11:41:26] INFO: Task 9 located in line 9 completed successfully on node s04r1b82. Elapsed: 00:12:17
+[2022-02-28 11:41:35] INFO: Task 10 located in line 10 completed successfully on node s04r1b83. Elapsed: 00:12:26
+[2022-02-28 11:41:35] INFO: MPI engine finished
+[2022-02-28 11:41:35] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 11:41:35] INFO: Total time: 00:12:26
+[2022-02-28 11:41:35] INFO: Resource Utilization: 94.34%
+[2022-02-28 11:41:35] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_10.txt
+[2022-02-28 11:41:10] INFO: Task 9 located in line 9 completed successfully on node s04r1b37. Elapsed: 00:12:32
+[2022-02-28 11:41:19] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_40.txt
+[2022-02-28 11:41:19] INFO: File with 10 correct Tasks
+[2022-02-28 11:41:19] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:41:19] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:41:19] INFO: Run on 5 nodes
+[2022-02-28 11:41:19] INFO: Job ID 889131
+[2022-02-28 11:41:19] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:41:19] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:41:19] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:41:19] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:41:19] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:41:19] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:41:19] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:41:19] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:41:19] INFO: Worker 1 on node s04r1b84
+[2022-02-28 11:41:19] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:41:19] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:41:19] INFO: Worker 10 on node s04r1b84
+[2022-02-28 11:41:22] INFO: Worker 7 on node s04r1b79
+[2022-02-28 11:41:15] INFO: Worker 5 on node s04r1b76
+[2022-02-28 11:41:10] INFO: Worker 2 on node s04r1b82
+[2022-02-28 11:41:41] INFO: Worker 9 on node s04r1b83
+[2022-02-28 11:41:41] INFO: Worker 8 on node s04r1b83
+[2022-02-28 11:41:22] INFO: Worker 6 on node s04r1b79
+[2022-02-28 11:41:15] INFO: Worker 4 on node s04r1b76
+[2022-02-28 11:41:10] INFO: Worker 3 on node s04r1b82
+[2022-02-28 11:41:13] INFO: Task 10 located in line 10 completed successfully on node s04r1b32. Elapsed: 00:12:35
+[2022-02-28 11:41:13] INFO: MPI engine finished
+[2022-02-28 11:41:13] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 11:41:13] INFO: Total time: 00:12:35
+[2022-02-28 11:41:13] INFO: Resource Utilization: 95.4%
+[2022-02-28 11:41:13] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_10.txt
+[2022-02-28 11:41:23] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_50.txt
+[2022-02-28 11:41:23] INFO: File with 10 correct Tasks
+[2022-02-28 11:41:23] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:41:23] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:41:23] INFO: Run on 5 nodes
+[2022-02-28 11:41:23] INFO: Job ID 889132
+[2022-02-28 11:41:23] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:41:23] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:41:23] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:41:23] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:41:23] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:41:23] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:41:23] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:41:23] INFO: Worker 1 on node s04r1b37
+[2022-02-28 11:41:23] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:41:23] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:41:23] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:41:23] INFO: Worker 10 on node s04r1b37
+[2022-02-28 11:41:19] INFO: Worker 2 on node s04r1b40
+[2022-02-28 11:41:19] INFO: Worker 3 on node s04r1b40
+[2022-02-28 11:41:22] INFO: Worker 9 on node s04r1b36
+[2022-02-28 11:41:22] INFO: Worker 8 on node s04r1b36
+[2022-02-28 11:41:21] INFO: Worker 6 on node s04r1b29
+[2022-02-28 11:41:21] INFO: Worker 7 on node s04r1b29
+[2022-02-28 11:41:19] INFO: Worker 4 on node s04r1b32
+[2022-02-28 11:41:19] INFO: Worker 5 on node s04r1b32
+[2022-02-28 11:47:25] INFO: Task 1 located in line 1 completed successfully on node s04r1b72. Elapsed: 00:18:44
+[2022-02-28 11:47:29] INFO: Task 3 located in line 3 completed successfully on node s04r1b74. Elapsed: 00:18:48
+[2022-02-28 11:47:32] INFO: Task 2 located in line 2 completed successfully on node s04r1b74. Elapsed: 00:18:51
+[2022-02-28 11:47:40] INFO: Task 1 located in line 1 completed successfully on node s04r1b33. Elapsed: 00:19:00
+[2022-02-28 11:47:41] INFO: Task 4 located in line 4 completed successfully on node s04r1b77. Elapsed: 00:19:00
+[2022-02-28 11:47:47] INFO: Task 2 located in line 2 completed successfully on node s04r1b41. Elapsed: 00:19:07
+[2022-02-28 11:47:56] INFO: Task 3 located in line 3 completed successfully on node s04r1b41. Elapsed: 00:19:16
+[2022-02-28 11:48:02] INFO: Task 6 located in line 6 completed successfully on node s04r1b71. Elapsed: 00:19:21
+[2022-02-28 11:48:05] INFO: Task 5 located in line 5 completed successfully on node s04r1b77. Elapsed: 00:19:24
+[2022-02-28 11:48:10] INFO: Task 7 located in line 7 completed successfully on node s04r1b71. Elapsed: 00:19:29
+[2022-02-28 11:48:16] INFO: Task 4 located in line 4 completed successfully on node s04r1b42. Elapsed: 00:19:36
+[2022-02-28 11:48:16] INFO: Task 8 located in line 8 completed successfully on node s04r1b73. Elapsed: 00:19:35
+[2022-02-28 11:48:18] INFO: Task 5 located in line 5 completed successfully on node s04r1b42. Elapsed: 00:19:38
+[2022-02-28 11:48:19] INFO: Task 10 located in line 10 completed successfully on node s04r1b72. Elapsed: 00:19:38
+[2022-02-28 11:48:25] INFO: Task 9 located in line 9 completed successfully on node s04r1b73. Elapsed: 00:19:44
+[2022-02-28 11:48:25] INFO: MPI engine finished
+[2022-02-28 11:48:25] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 11:48:25] INFO: Total time: 00:19:44
+[2022-02-28 11:48:25] INFO: Resource Utilization: 97.58%
+[2022-02-28 11:48:25] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_20.txt
+[2022-02-28 11:48:27] INFO: Task 6 located in line 6 completed successfully on node s04r1b25. Elapsed: 00:19:47
+[2022-02-28 11:48:34] INFO: Task 7 located in line 7 completed successfully on node s04r1b25. Elapsed: 00:19:54
+[2022-02-28 11:48:40] INFO: Task 8 located in line 8 completed successfully on node s04r1b27. Elapsed: 00:20:00
+[2022-02-28 11:48:57] INFO: Task 9 located in line 9 completed successfully on node s04r1b27. Elapsed: 00:20:17
+[2022-02-28 11:49:03] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_60.txt
+[2022-02-28 11:49:03] INFO: File with 10 correct Tasks
+[2022-02-28 11:49:03] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:49:03] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:49:03] INFO: Run on 5 nodes
+[2022-02-28 11:49:03] INFO: Job ID 889133
+[2022-02-28 11:49:03] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:49:03] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:49:03] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:49:03] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:49:03] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:49:03] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:49:03] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:49:03] INFO: Worker 1 on node s04r1b71
+[2022-02-28 11:49:03] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:49:03] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:49:03] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:49:03] INFO: Worker 10 on node s04r1b71
+[2022-02-28 11:49:09] INFO: Worker 7 on node s04r1b77
+[2022-02-28 11:49:09] INFO: Worker 6 on node s04r1b77
+[2022-02-28 11:49:01] INFO: Worker 5 on node s04r1b72
+[2022-02-28 11:49:01] INFO: Worker 4 on node s04r1b72
+[2022-02-28 11:49:04] INFO: Worker 2 on node s04r1b73
+[2022-02-28 11:48:30] INFO: Worker 8 on node s04r1b74
+[2022-02-28 11:48:30] INFO: Worker 9 on node s04r1b74
+[2022-02-28 11:49:04] INFO: Worker 3 on node s04r1b73
+[2022-02-28 11:49:18] INFO: Task 10 located in line 10 completed successfully on node s04r1b33. Elapsed: 00:20:38
+[2022-02-28 11:49:18] INFO: MPI engine finished
+[2022-02-28 11:49:18] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 11:49:18] INFO: Total time: 00:20:38
+[2022-02-28 11:49:18] INFO: Resource Utilization: 95.58%
+[2022-02-28 11:49:18] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_20.txt
+[2022-02-28 11:49:27] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_70.txt
+[2022-02-28 11:49:27] INFO: File with 10 correct Tasks
+[2022-02-28 11:49:27] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:49:27] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:49:27] INFO: Run on 5 nodes
+[2022-02-28 11:49:27] INFO: Job ID 889134
+[2022-02-28 11:49:27] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:49:27] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:49:27] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:49:27] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:49:27] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:49:27] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:49:27] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:49:27] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:49:27] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:49:27] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:49:27] INFO: Worker 1 on node s04r1b42
+[2022-02-28 11:49:27] INFO: Worker 10 on node s04r1b42
+[2022-02-28 11:49:25] INFO: Worker 3 on node s04r1b25
+[2022-02-28 11:49:24] INFO: Worker 5 on node s04r1b27
+[2022-02-28 11:49:24] INFO: Worker 7 on node s04r1b33
+[2022-02-28 11:52:48] INFO: Worker 8 on node s04r1b41
+[2022-02-28 11:49:25] INFO: Worker 2 on node s04r1b25
+[2022-02-28 11:49:24] INFO: Worker 4 on node s04r1b27
+[2022-02-28 11:49:24] INFO: Worker 6 on node s04r1b33
+[2022-02-28 11:52:48] INFO: Worker 9 on node s04r1b41
+[2022-02-28 11:54:50] INFO: Task 1 located in line 1 completed successfully on node s04r1b67. Elapsed: 00:26:07
+[2022-02-28 11:55:13] INFO: Task 4 located in line 4 completed successfully on node s04r1b69. Elapsed: 00:26:30
+[2022-02-28 11:55:16] INFO: Task 2 located in line 2 completed successfully on node s04r1b68. Elapsed: 00:26:33
+[2022-02-28 11:55:16] INFO: Task 3 located in line 3 completed successfully on node s04r1b68. Elapsed: 00:26:33
+[2022-02-28 11:55:20] INFO: Task 2 located in line 2 completed successfully on node s04r1b28. Elapsed: 00:26:47
+[2022-02-28 11:55:27] INFO: Task 1 located in line 1 completed successfully on node s04r1b26. Elapsed: 00:26:55
+[2022-02-28 11:55:42] INFO: Task 8 located in line 8 completed successfully on node s04r1b70. Elapsed: 00:26:59
+[2022-02-28 11:55:43] INFO: Task 5 located in line 5 completed successfully on node s04r1b69. Elapsed: 00:27:00
+[2022-02-28 11:55:53] INFO: Task 6 located in line 6 completed successfully on node s04r1b75. Elapsed: 00:27:09
+[2022-02-28 11:55:56] INFO: Task 10 located in line 10 completed successfully on node s04r1b67. Elapsed: 00:27:13
+[2022-02-28 11:55:52] INFO: Task 6 located in line 6 completed successfully on node s04r1b34. Elapsed: 00:27:19
+[2022-02-28 11:55:53] INFO: Task 3 located in line 3 completed successfully on node s04r1b28. Elapsed: 00:27:20
+[2022-02-28 11:56:02] INFO: Task 7 located in line 7 completed successfully on node s04r1b75. Elapsed: 00:27:19
+[2022-02-28 11:55:53] INFO: Task 4 located in line 4 completed successfully on node s04r1b35. Elapsed: 00:27:21
+[2022-02-28 11:56:12] INFO: Task 9 located in line 9 completed successfully on node s04r1b70. Elapsed: 00:27:29
+[2022-02-28 11:56:12] INFO: MPI engine finished
+[2022-02-28 11:56:12] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 11:56:12] INFO: Total time: 00:27:29
+[2022-02-28 11:56:12] INFO: Resource Utilization: 97.82%
+[2022-02-28 11:56:12] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_30.txt
+[2022-02-28 11:56:08] INFO: Task 5 located in line 5 completed successfully on node s04r1b35. Elapsed: 00:27:36
+[2022-02-28 11:56:19] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_80.txt
+[2022-02-28 11:56:19] INFO: File with 10 correct Tasks
+[2022-02-28 11:56:19] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:56:19] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:56:19] INFO: Run on 5 nodes
+[2022-02-28 11:56:19] INFO: Job ID 889135
+[2022-02-28 11:56:19] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:56:19] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:56:19] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:56:19] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:56:19] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:56:19] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:56:19] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:56:19] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:56:19] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:56:19] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:56:19] INFO: Worker 1 on node s04r1b70
+[2022-02-28 11:56:19] INFO: Worker 10 on node s04r1b70
+[2022-02-28 11:56:19] INFO: Worker 2 on node s04r1b75
+[2022-02-28 11:56:19] INFO: Worker 6 on node s04r1b69
+[2022-02-28 11:56:19] INFO: Worker 5 on node s04r1b67
+[2022-02-28 11:56:19] INFO: Worker 4 on node s04r1b67
+[2022-02-28 11:56:19] INFO: Worker 9 on node s04r1b68
+[2022-02-28 11:56:19] INFO: Worker 3 on node s04r1b75
+[2022-02-28 11:56:19] INFO: Worker 8 on node s04r1b68
+[2022-02-28 11:56:19] INFO: Worker 7 on node s04r1b69
+[2022-02-28 11:56:12] INFO: Task 8 located in line 8 completed successfully on node s04r1b30. Elapsed: 00:27:40
+[2022-02-28 11:56:14] INFO: Task 7 located in line 7 completed successfully on node s04r1b34. Elapsed: 00:27:42
+[2022-02-28 11:56:32] INFO: Task 9 located in line 9 completed successfully on node s04r1b30. Elapsed: 00:28:00
+[2022-02-28 11:56:37] INFO: Task 10 located in line 10 completed successfully on node s04r1b26. Elapsed: 00:28:04
+[2022-02-28 11:56:37] INFO: MPI engine finished
+[2022-02-28 11:56:37] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 11:56:37] INFO: Total time: 00:28:05
+[2022-02-28 11:56:37] INFO: Resource Utilization: 97.82%
+[2022-02-28 11:56:37] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_30.txt
+[2022-02-28 11:56:43] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_90.txt
+[2022-02-28 11:56:43] INFO: File with 10 correct Tasks
+[2022-02-28 11:56:43] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 11:56:43] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 11:56:43] INFO: Run on 5 nodes
+[2022-02-28 11:56:43] INFO: Job ID 889136
+[2022-02-28 11:56:43] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 11:56:43] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 11:56:43] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 11:56:43] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 11:56:43] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 11:56:43] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 11:56:43] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 11:56:43] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 11:56:43] INFO: Worker 1 on node s04r1b26
+[2022-02-28 11:56:43] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 11:56:43] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 11:56:53] INFO: Worker 4 on node s04r1b30
+[2022-02-28 11:56:53] INFO: Worker 7 on node s04r1b34
+[2022-02-28 11:56:53] INFO: Worker 6 on node s04r1b34
+[2022-02-28 11:56:56] INFO: Worker 2 on node s04r1b35
+[2022-02-28 11:56:56] INFO: Worker 3 on node s04r1b35
+[2022-02-28 11:56:49] INFO: Worker 9 on node s04r1b28
+[2022-02-28 11:56:43] INFO: Worker 10 on node s04r1b26
+[2022-02-28 11:56:49] INFO: Worker 8 on node s04r1b28
+[2022-02-28 11:56:53] INFO: Worker 5 on node s04r1b30
+[2022-02-28 12:03:22] INFO: Task 1 located in line 1 completed successfully on node s04r1b38. Elapsed: 00:34:40
+[2022-02-28 12:03:37] INFO: Task 2 located in line 2 completed successfully on node s04r1b31. Elapsed: 00:34:55
+[2022-02-28 12:03:44] INFO: Task 4 located in line 4 completed successfully on node s04r2b22. Elapsed: 00:35:02
+[2022-02-28 12:03:53] INFO: Task 3 located in line 3 completed successfully on node s04r1b31. Elapsed: 00:35:11
+[2022-02-28 12:04:00] INFO: Task 5 located in line 5 completed successfully on node s04r2b22. Elapsed: 00:35:18
+[2022-02-28 12:04:06] INFO: Task 6 located in line 6 completed successfully on node s04r2b18. Elapsed: 00:35:23
+[2022-02-28 12:04:13] INFO: Task 9 located in line 9 completed successfully on node s04r2b17. Elapsed: 00:35:31
+[2022-02-28 12:04:13] INFO: Task 7 located in line 7 completed successfully on node s04r2b18. Elapsed: 00:35:31
+[2022-02-28 12:04:20] INFO: Task 10 located in line 10 completed successfully on node s04r1b38. Elapsed: 00:35:38
+[2022-02-28 12:04:37] INFO: Task 8 located in line 8 completed successfully on node s04r2b17. Elapsed: 00:35:55
+[2022-02-28 12:04:37] INFO: MPI engine finished
+[2022-02-28 12:04:37] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:04:37] INFO: Total time: 00:35:55
+[2022-02-28 12:04:37] INFO: Resource Utilization: 98.3%
+[2022-02-28 12:04:37] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_40.txt
+[2022-02-28 12:05:13] Start greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_100.txt
+[2022-02-28 12:05:13] INFO: File with 10 correct Tasks
+[2022-02-28 12:05:13] INFO: MPI engine is ready to run with 10 workers
+[2022-02-28 12:05:13] INFO: Current Working Dir /gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2
+[2022-02-28 12:05:13] INFO: Run on 5 nodes
+[2022-02-28 12:05:13] INFO: Job ID 889137
+[2022-02-28 12:05:13] INFO: Allocating task 1 located in line 1 to Worker 1
+[2022-02-28 12:05:13] INFO: Allocating task 2 located in line 2 to Worker 2
+[2022-02-28 12:05:13] INFO: Allocating task 3 located in line 3 to Worker 3
+[2022-02-28 12:05:13] INFO: Allocating task 4 located in line 4 to Worker 4
+[2022-02-28 12:05:13] INFO: Allocating task 5 located in line 5 to Worker 5
+[2022-02-28 12:05:13] INFO: Allocating task 6 located in line 6 to Worker 6
+[2022-02-28 12:05:13] INFO: Allocating task 7 located in line 7 to Worker 7
+[2022-02-28 12:05:13] INFO: Allocating task 8 located in line 8 to Worker 8
+[2022-02-28 12:05:13] INFO: Allocating task 9 located in line 9 to Worker 9
+[2022-02-28 12:05:13] INFO: Worker 1 on node s04r1b38
+[2022-02-28 12:05:13] INFO: Allocating task 10 located in line 10 to Worker 10
+[2022-02-28 12:05:13] INFO: Worker 10 on node s04r1b38
+[2022-02-28 12:05:13] INFO: Worker 2 on node s04r1b31
+[2022-02-28 12:05:13] INFO: Worker 3 on node s04r1b31
+[2022-02-28 12:05:11] INFO: Worker 5 on node s04r2b22
+[2022-02-28 12:05:11] INFO: Worker 4 on node s04r2b22
+[2022-02-28 12:05:12] INFO: Worker 7 on node s04r2b18
+[2022-02-28 12:05:12] INFO: Worker 6 on node s04r2b18
+[2022-02-28 12:05:13] INFO: Worker 8 on node s04r2b17
+[2022-02-28 12:05:13] INFO: Worker 9 on node s04r2b17
+[2022-02-28 12:12:11] INFO: Task 3 located in line 3 completed successfully on node s04r2b16. Elapsed: 00:42:29
+[2022-02-28 12:12:24] INFO: Task 5 located in line 5 completed successfully on node s04r2b21. Elapsed: 00:42:42
+[2022-02-28 12:12:27] INFO: Task 4 located in line 4 completed successfully on node s04r2b21. Elapsed: 00:42:45
+[2022-02-28 12:12:33] INFO: Task 1 located in line 1 completed successfully on node s04r2b19. Elapsed: 00:42:51
+[2022-02-28 12:12:55] INFO: Task 2 located in line 2 completed successfully on node s04r2b16. Elapsed: 00:43:13
+[2022-02-28 12:12:57] INFO: Task 6 located in line 6 completed successfully on node s04r2b23. Elapsed: 00:43:15
+[2022-02-28 12:13:00] INFO: Task 7 located in line 7 completed successfully on node s04r2b23. Elapsed: 00:43:18
+[2022-02-28 12:13:27] INFO: Task 9 located in line 9 completed successfully on node s04r2b24. Elapsed: 00:43:45
+[2022-02-28 12:13:28] INFO: Task 10 located in line 10 completed successfully on node s04r2b19. Elapsed: 00:43:46
+[2022-02-28 12:13:34] INFO: Task 8 located in line 8 completed successfully on node s04r2b24. Elapsed: 00:43:52
+[2022-02-28 12:13:34] INFO: MPI engine finished
+[2022-02-28 12:13:34] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:13:34] INFO: Total time: 00:43:52
+[2022-02-28 12:13:34] INFO: Resource Utilization: 98.46%
+[2022-02-28 12:13:34] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_50.txt
+[2022-02-28 12:15:03] INFO: Task 1 located in line 1 completed successfully on node s04r1b84. Elapsed: 00:33:44
+[2022-02-28 12:15:04] INFO: Task 2 located in line 2 completed successfully on node s04r1b82. Elapsed: 00:33:45
+[2022-02-28 12:15:35] INFO: Task 5 located in line 5 completed successfully on node s04r1b76. Elapsed: 00:34:15
+[2022-02-28 12:15:39] INFO: Task 4 located in line 4 completed successfully on node s04r1b76. Elapsed: 00:34:20
+[2022-02-28 12:15:46] INFO: Task 3 located in line 3 completed successfully on node s04r1b82. Elapsed: 00:34:26
+[2022-02-28 12:15:50] INFO: Task 7 located in line 7 completed successfully on node s04r1b79. Elapsed: 00:34:31
+[2022-02-28 12:16:01] INFO: Task 6 located in line 6 completed successfully on node s04r1b79. Elapsed: 00:34:41
+[2022-02-28 12:16:13] INFO: Task 8 located in line 8 completed successfully on node s04r1b83. Elapsed: 00:34:53
+[2022-02-28 12:16:18] INFO: Task 9 located in line 9 completed successfully on node s04r1b83. Elapsed: 00:34:58
+[2022-02-28 12:16:46] INFO: Task 10 located in line 10 completed successfully on node s04r1b84. Elapsed: 00:35:27
+[2022-02-28 12:16:46] INFO: MPI engine finished
+[2022-02-28 12:16:46] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:16:46] INFO: Total time: 00:35:27
+[2022-02-28 12:16:46] INFO: Resource Utilization: 97.32%
+[2022-02-28 12:16:46] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_40.txt
+[2022-02-28 12:18:50] INFO: Task 2 located in line 2 completed successfully on node s04r2b20. Elapsed: 00:50:11
+[2022-02-28 12:18:57] INFO: Task 1 located in line 1 completed successfully on node s04r2b14. Elapsed: 00:50:17
+[2022-02-28 12:19:14] INFO: Task 3 located in line 3 completed successfully on node s04r2b20. Elapsed: 00:50:34
+[2022-02-28 12:19:27] INFO: Task 5 located in line 5 completed successfully on node s04r2b09. Elapsed: 00:50:48
+[2022-02-28 12:19:30] INFO: Task 6 located in line 6 completed successfully on node s04r2b15. Elapsed: 00:50:50
+[2022-02-28 12:19:33] INFO: Task 4 located in line 4 completed successfully on node s04r2b09. Elapsed: 00:50:53
+[2022-02-28 12:19:36] INFO: Task 8 located in line 8 completed successfully on node s04r2b12. Elapsed: 00:50:57
+[2022-02-28 12:20:09] INFO: Task 7 located in line 7 completed successfully on node s04r2b15. Elapsed: 00:51:29
+[2022-02-28 12:20:11] INFO: Task 10 located in line 10 completed successfully on node s04r2b14. Elapsed: 00:51:31
+[2022-02-28 12:20:18] INFO: Task 9 located in line 9 completed successfully on node s04r2b12. Elapsed: 00:51:38
+[2022-02-28 12:20:18] INFO: MPI engine finished
+[2022-02-28 12:20:18] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:20:18] INFO: Total time: 00:51:38
+[2022-02-28 12:20:18] INFO: Resource Utilization: 98.6%
+[2022-02-28 12:20:18] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_60.txt
+[2022-02-28 12:22:58] INFO: Task 2 located in line 2 completed successfully on node s04r1b40. Elapsed: 00:41:35
+[2022-02-28 12:23:03] INFO: Task 3 located in line 3 completed successfully on node s04r1b40. Elapsed: 00:41:40
+[2022-02-28 12:23:14] INFO: Task 4 located in line 4 completed successfully on node s04r1b32. Elapsed: 00:41:50
+[2022-02-28 12:23:16] INFO: Task 1 located in line 1 completed successfully on node s04r1b37. Elapsed: 00:41:52
+[2022-02-28 12:23:24] INFO: Task 6 located in line 6 completed successfully on node s04r1b29. Elapsed: 00:42:00
+[2022-02-28 12:23:25] INFO: Task 5 located in line 5 completed successfully on node s04r1b32. Elapsed: 00:42:01
+[2022-02-28 12:23:49] INFO: Task 7 located in line 7 completed successfully on node s04r1b29. Elapsed: 00:42:25
+[2022-02-28 12:24:11] INFO: Task 10 located in line 10 completed successfully on node s04r1b37. Elapsed: 00:42:47
+[2022-02-28 12:24:40] INFO: Task 9 located in line 9 completed successfully on node s04r1b36. Elapsed: 00:43:17
+[2022-02-28 12:24:53] INFO: Task 8 located in line 8 completed successfully on node s04r1b36. Elapsed: 00:43:29
+[2022-02-28 12:24:53] INFO: MPI engine finished
+[2022-02-28 12:24:53] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:24:53] INFO: Total time: 00:43:29
+[2022-02-28 12:24:53] INFO: Resource Utilization: 97.26%
+[2022-02-28 12:24:53] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_50.txt
+[2022-02-28 12:26:16] INFO: Task 2 located in line 2 completed successfully on node s04r2b31. Elapsed: 00:57:38
+[2022-02-28 12:26:48] INFO: Task 4 located in line 4 completed successfully on node s04r2b39. Elapsed: 00:58:09
+[2022-02-28 12:27:00] INFO: Task 6 located in line 6 completed successfully on node s04r2b42. Elapsed: 00:58:22
+[2022-02-28 12:27:04] INFO: Task 3 located in line 3 completed successfully on node s04r2b31. Elapsed: 00:58:25
+[2022-02-28 12:27:05] INFO: Task 1 located in line 1 completed successfully on node s04r2b26. Elapsed: 00:58:27
+[2022-02-28 12:27:15] INFO: Task 5 located in line 5 completed successfully on node s04r2b39. Elapsed: 00:58:36
+[2022-02-28 12:27:17] INFO: Task 9 located in line 9 completed successfully on node s04r2b25. Elapsed: 00:58:38
+[2022-02-28 12:27:47] INFO: Task 10 located in line 10 completed successfully on node s04r2b26. Elapsed: 00:59:08
+[2022-02-28 12:28:07] INFO: Task 8 located in line 8 completed successfully on node s04r2b25. Elapsed: 00:59:29
+[2022-02-28 12:28:19] INFO: Task 7 located in line 7 completed successfully on node s04r2b42. Elapsed: 00:59:40
+[2022-02-28 12:28:19] INFO: MPI engine finished
+[2022-02-28 12:28:19] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:28:19] INFO: Total time: 00:59:40
+[2022-02-28 12:28:19] INFO: Resource Utilization: 98.3%
+[2022-02-28 12:28:19] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_70.txt
+[2022-02-28 12:29:54] INFO: Task 2 located in line 2 completed successfully on node s04r1b14. Elapsed: 01:01:14
+[2022-02-28 12:30:47] INFO: Task 1 located in line 1 completed successfully on node s04r1b23. Elapsed: 01:02:06
+[2022-02-28 12:30:51] INFO: Task 3 located in line 3 completed successfully on node s04r1b14. Elapsed: 01:02:11
+[2022-02-28 12:30:55] INFO: Task 5 located in line 5 completed successfully on node s04r1b17. Elapsed: 01:02:14
+[2022-02-28 12:31:20] INFO: Task 3 located in line 3 completed successfully on node s04r2b44. Elapsed: 01:02:46
+[2022-02-28 12:31:41] INFO: Task 6 located in line 6 completed successfully on node s04r1b24. Elapsed: 01:03:01
+[2022-02-28 12:31:43] INFO: Task 4 located in line 4 completed successfully on node s04r1b17. Elapsed: 01:03:03
+[2022-02-28 12:31:40] INFO: Task 2 located in line 2 completed successfully on node s04r2b44. Elapsed: 01:03:07
+[2022-02-28 12:31:54] INFO: Task 1 located in line 1 completed successfully on node s04r2b45. Elapsed: 01:03:20
+[2022-02-28 12:32:26] INFO: Task 4 located in line 4 completed successfully on node s04r2b47. Elapsed: 01:03:52
+[2022-02-28 12:32:52] INFO: Task 7 located in line 7 completed successfully on node s04r1b24. Elapsed: 01:04:11
+[2022-02-28 12:33:01] INFO: Task 5 located in line 5 completed successfully on node s04r2b47. Elapsed: 01:04:27
+[2022-02-28 12:33:16] INFO: Task 8 located in line 8 completed successfully on node s04r1b19. Elapsed: 01:04:36
+[2022-02-28 12:33:16] INFO: MPI engine finished
+[2022-02-28 12:33:16] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:33:16] INFO: Total time: 01:04:36
+[2022-02-28 12:33:16] INFO: Resource Utilization: 77.8%
+[2022-02-28 12:33:16] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_75.txt
+[2022-02-28 12:33:12] INFO: Task 6 located in line 6 completed successfully on node s04r2b46. Elapsed: 01:04:39
+[2022-02-28 12:33:22] INFO: Task 7 located in line 7 completed successfully on node s04r2b46. Elapsed: 01:04:48
+[2022-02-28 12:34:53] INFO: Task 1 located in line 1 completed successfully on node s04r2b38. Elapsed: 01:06:13
+[2022-02-28 12:34:54] INFO: Task 5 located in line 5 completed successfully on node s04r2b33. Elapsed: 01:06:13
+[2022-02-28 12:34:56] INFO: Task 8 located in line 8 completed successfully on node s04r2b43. Elapsed: 01:06:22
+[2022-02-28 12:34:56] INFO: MPI engine finished
+[2022-02-28 12:34:56] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:34:56] INFO: Total time: 01:06:22
+[2022-02-28 12:34:56] INFO: Resource Utilization: 77.35%
+[2022-02-28 12:34:56] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_75.txt
+[2022-02-28 12:35:06] INFO: Task 3 located in line 3 completed successfully on node s04r2b30. Elapsed: 01:06:25
+[2022-02-28 12:35:07] INFO: Task 2 located in line 2 completed successfully on node s04r2b30. Elapsed: 01:06:26
+[2022-02-28 12:35:07] INFO: Task 7 located in line 7 completed successfully on node s04r2b34. Elapsed: 01:06:26
+[2022-02-28 12:35:15] INFO: Task 4 located in line 4 completed successfully on node s04r2b33. Elapsed: 01:06:34
+[2022-02-28 12:35:25] INFO: Task 8 located in line 8 completed successfully on node s04r2b40. Elapsed: 01:06:44
+[2022-02-28 12:35:56] INFO: Task 6 located in line 6 completed successfully on node s04r2b34. Elapsed: 01:07:15
+[2022-02-28 12:35:59] INFO: Task 9 located in line 9 completed successfully on node s04r2b40. Elapsed: 01:07:18
+[2022-02-28 12:36:01] INFO: Task 10 located in line 10 completed successfully on node s04r2b38. Elapsed: 01:07:20
+[2022-02-28 12:36:01] INFO: MPI engine finished
+[2022-02-28 12:36:01] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:36:01] INFO: Total time: 01:07:21
+[2022-02-28 12:36:01] INFO: Resource Utilization: 99.02%
+[2022-02-28 12:36:01] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_80.txt
+[2022-02-28 12:37:38] INFO: Task 1 located in line 1 completed successfully on node s04r1b71. Elapsed: 00:48:35
+[2022-02-28 12:37:38] INFO: Task 2 located in line 2 completed successfully on node s04r1b73. Elapsed: 00:48:35
+[2022-02-28 12:38:42] INFO: Task 3 located in line 3 completed successfully on node s04r1b73. Elapsed: 00:49:39
+[2022-02-28 12:38:43] INFO: Task 5 located in line 5 completed successfully on node s04r1b72. Elapsed: 00:49:39
+[2022-02-28 12:38:45] INFO: Task 7 located in line 7 completed successfully on node s04r1b77. Elapsed: 00:49:42
+[2022-02-28 12:38:56] INFO: Task 6 located in line 6 completed successfully on node s04r1b77. Elapsed: 00:49:52
+[2022-02-28 12:39:00] INFO: Task 4 located in line 4 completed successfully on node s04r1b72. Elapsed: 00:49:57
+[2022-02-28 12:39:09] INFO: Task 8 located in line 8 completed successfully on node s04r1b74. Elapsed: 00:50:06
+[2022-02-28 12:39:40] INFO: Task 10 located in line 10 completed successfully on node s04r1b71. Elapsed: 00:50:37
+[2022-02-28 12:39:51] INFO: Task 9 located in line 9 completed successfully on node s04r1b74. Elapsed: 00:50:48
+[2022-02-28 12:39:51] INFO: MPI engine finished
+[2022-02-28 12:39:51] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:39:51] INFO: Total time: 00:50:48
+[2022-02-28 12:39:51] INFO: Resource Utilization: 97.93%
+[2022-02-28 12:39:51] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_60.txt
+[2022-02-28 12:42:32] INFO: Task 4 located in line 4 completed successfully on node s04r2b37. Elapsed: 01:14:00
+[2022-02-28 12:42:33] INFO: Task 6 located in line 6 completed successfully on node s04r2b41. Elapsed: 01:14:01
+[2022-02-28 12:42:43] INFO: Task 3 located in line 3 completed successfully on node s04r2b29. Elapsed: 01:14:10
+[2022-02-28 12:42:44] INFO: Task 2 located in line 2 completed successfully on node s04r2b29. Elapsed: 01:14:12
+[2022-02-28 12:42:46] INFO: Task 1 located in line 1 completed successfully on node s04r2b35. Elapsed: 01:14:13
+[2022-02-28 12:43:41] INFO: Task 5 located in line 5 completed successfully on node s04r2b37. Elapsed: 01:15:08
+[2022-02-28 12:43:49] INFO: Task 7 located in line 7 completed successfully on node s04r2b41. Elapsed: 01:15:17
+[2022-02-28 12:43:59] INFO: Task 9 located in line 9 completed successfully on node s04r2b32. Elapsed: 01:15:26
+[2022-02-28 12:44:18] INFO: Task 10 located in line 10 completed successfully on node s04r2b35. Elapsed: 01:15:45
+[2022-02-28 12:44:20] INFO: Task 8 located in line 8 completed successfully on node s04r2b32. Elapsed: 01:15:48
+[2022-02-28 12:44:20] INFO: MPI engine finished
+[2022-02-28 12:44:20] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:44:20] INFO: Total time: 01:15:48
+[2022-02-28 12:44:20] INFO: Resource Utilization: 98.68%
+[2022-02-28 12:44:20] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_90.txt
+[2022-02-28 12:45:56] INFO: Task 1 located in line 1 completed successfully on node s04r1b42. Elapsed: 00:56:29
+[2022-02-28 12:46:29] INFO: Task 4 located in line 4 completed successfully on node s04r1b27. Elapsed: 00:57:02
+[2022-02-28 12:46:33] INFO: Task 6 located in line 6 completed successfully on node s04r1b33. Elapsed: 00:57:06
+[2022-02-28 12:46:36] INFO: Task 2 located in line 2 completed successfully on node s04r1b25. Elapsed: 00:57:09
+[2022-02-28 12:46:48] INFO: Task 5 located in line 5 completed successfully on node s04r1b27. Elapsed: 00:57:21
+[2022-02-28 12:46:48] INFO: Task 3 located in line 3 completed successfully on node s04r1b25. Elapsed: 00:57:21
+[2022-02-28 12:47:27] INFO: Task 7 located in line 7 completed successfully on node s04r1b33. Elapsed: 00:58:00
+[2022-02-28 12:47:33] INFO: Task 8 located in line 8 completed successfully on node s04r1b41. Elapsed: 00:58:06
+[2022-02-28 12:47:41] INFO: Task 10 located in line 10 completed successfully on node s04r1b42. Elapsed: 00:58:14
+[2022-02-28 12:48:04] INFO: Task 1 located in line 1 completed successfully on node s04r1b21. Elapsed: 01:19:23
+[2022-02-28 12:48:11] INFO: Task 9 located in line 9 completed successfully on node s04r1b41. Elapsed: 00:58:44
+[2022-02-28 12:48:11] INFO: MPI engine finished
+[2022-02-28 12:48:11] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:48:11] INFO: Total time: 00:58:44
+[2022-02-28 12:48:11] INFO: Resource Utilization: 97.99%
+[2022-02-28 12:48:11] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_70.txt
+[2022-02-28 12:48:31] INFO: Task 3 located in line 3 completed successfully on node s04r2b62. Elapsed: 01:19:50
+[2022-02-28 12:48:56] INFO: Task 2 located in line 2 completed successfully on node s04r2b62. Elapsed: 01:20:14
+[2022-02-28 12:49:35] INFO: Task 4 located in line 4 completed successfully on node s04r2b56. Elapsed: 01:20:53
+[2022-02-28 12:49:43] INFO: Task 10 located in line 10 completed successfully on node s04r1b21. Elapsed: 01:21:01
+[2022-02-28 12:49:46] INFO: Task 8 located in line 8 completed successfully on node s04r2b51. Elapsed: 01:21:04
+[2022-02-28 12:49:47] INFO: Task 6 located in line 6 completed successfully on node s04r2b65. Elapsed: 01:21:05
+[2022-02-28 12:50:20] INFO: Task 7 located in line 7 completed successfully on node s04r2b65. Elapsed: 01:21:39
+[2022-02-28 12:50:20] INFO: Task 5 located in line 5 completed successfully on node s04r2b56. Elapsed: 01:21:39
+[2022-02-28 12:50:24] INFO: Task 4 located in line 4 completed successfully on node s04r1b43. Elapsed: 01:21:46
+[2022-02-28 12:50:35] INFO: Task 9 located in line 9 completed successfully on node s04r2b51. Elapsed: 01:21:54
+[2022-02-28 12:50:35] INFO: MPI engine finished
+[2022-02-28 12:50:35] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:50:35] INFO: Total time: 01:21:54
+[2022-02-28 12:50:35] INFO: Resource Utilization: 98.74%
+[2022-02-28 12:50:35] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_100.txt
+[2022-02-28 12:50:41] INFO: Task 1 located in line 1 completed successfully on node s04r2b48. Elapsed: 01:22:03
+[2022-02-28 12:50:48] INFO: Task 1 located in line 1 completed successfully on node s04r2b27. Elapsed: 01:22:05
+[2022-02-28 12:50:48] INFO: Task 4 located in line 4 completed successfully on node s04r1b81. Elapsed: 01:22:06
+[2022-02-28 12:50:53] INFO: Task 3 located in line 3 completed successfully on node s04r2b36. Elapsed: 01:22:10
+[2022-02-28 12:50:56] INFO: Task 2 located in line 2 completed successfully on node s04r2b36. Elapsed: 01:22:14
+[2022-02-28 12:50:57] INFO: Task 5 located in line 5 completed successfully on node s04r1b43. Elapsed: 01:22:19
+[2022-02-28 12:50:58] INFO: Task 8 located in line 8 completed successfully on node s04r2b02. Elapsed: 01:22:20
+[2022-02-28 12:51:15] INFO: Task 9 located in line 9 completed successfully on node s04r1b80. Elapsed: 01:22:32
+[2022-02-28 12:51:21] INFO: Task 6 located in line 6 completed successfully on node s04r1b78. Elapsed: 01:22:38
+[2022-02-28 12:51:26] INFO: Task 7 located in line 7 completed successfully on node s04r1b47. Elapsed: 01:22:48
+[2022-02-28 12:51:30] INFO: Task 7 located in line 7 completed successfully on node s04r1b78. Elapsed: 01:22:47
+[2022-02-28 12:51:39] INFO: Task 9 located in line 9 completed successfully on node s04r2b02. Elapsed: 01:23:01
+[2022-02-28 12:51:48] INFO: Task 6 located in line 6 completed successfully on node s04r1b47. Elapsed: 01:23:10
+[2022-02-28 12:51:54] INFO: Task 3 located in line 3 completed successfully on node s04r1b44. Elapsed: 01:23:16
+[2022-02-28 12:51:56] INFO: Task 10 located in line 10 completed successfully on node s04r2b27. Elapsed: 01:23:13
+[2022-02-28 12:51:57] INFO: Task 10 located in line 10 completed successfully on node s04r2b48. Elapsed: 01:23:19
+[2022-02-28 12:52:07] INFO: Task 2 located in line 2 completed successfully on node s04r1b44. Elapsed: 01:23:29
+[2022-02-28 12:52:07] INFO: MPI engine finished
+[2022-02-28 12:52:07] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:52:07] INFO: Total time: 01:23:29
+[2022-02-28 12:52:07] INFO: Resource Utilization: 99.12%
+[2022-02-28 12:52:07] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_100.txt
+[2022-02-28 12:52:08] INFO: Task 8 located in line 8 completed successfully on node s04r1b80. Elapsed: 01:23:25
+[2022-02-28 12:52:22] INFO: Task 5 located in line 5 completed successfully on node s04r1b81. Elapsed: 01:23:39
+[2022-02-28 12:52:22] INFO: MPI engine finished
+[2022-02-28 12:52:22] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 12:52:22] INFO: Total time: 01:23:39
+[2022-02-28 12:52:22] INFO: Resource Utilization: 98.84%
+[2022-02-28 12:52:22] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_100.txt
+[2022-02-28 13:00:40] INFO: Task 4 located in line 4 completed successfully on node s04r1b67. Elapsed: 01:04:21
+[2022-02-28 13:00:45] INFO: Task 1 located in line 1 completed successfully on node s04r1b70. Elapsed: 01:04:26
+[2022-02-28 13:00:48] INFO: Task 3 located in line 3 completed successfully on node s04r1b75. Elapsed: 01:04:29
+[2022-02-28 13:01:00] INFO: Task 2 located in line 2 completed successfully on node s04r1b75. Elapsed: 01:04:40
+[2022-02-28 13:01:18] INFO: Task 6 located in line 6 completed successfully on node s04r1b69. Elapsed: 01:04:59
+[2022-02-28 13:01:21] INFO: Task 5 located in line 5 completed successfully on node s04r1b67. Elapsed: 01:05:02
+[2022-02-28 13:01:35] INFO: Task 7 located in line 7 completed successfully on node s04r1b69. Elapsed: 01:05:15
+[2022-02-28 13:01:56] INFO: Task 9 located in line 9 completed successfully on node s04r1b68. Elapsed: 01:05:37
+[2022-02-28 13:02:05] INFO: Task 8 located in line 8 completed successfully on node s04r1b68. Elapsed: 01:05:46
+[2022-02-28 13:02:08] INFO: Task 10 located in line 10 completed successfully on node s04r1b70. Elapsed: 01:05:49
+[2022-02-28 13:02:08] INFO: MPI engine finished
+[2022-02-28 13:02:08] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:02:08] INFO: Total time: 01:05:49
+[2022-02-28 13:02:08] INFO: Resource Utilization: 98.81%
+[2022-02-28 13:02:08] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_80.txt
+[2022-02-28 13:08:46] INFO: Task 3 located in line 3 completed successfully on node s04r2b66. Elapsed: 01:40:04
+[2022-02-28 13:08:49] INFO: Task 1 located in line 1 completed successfully on node s04r1b26. Elapsed: 01:12:06
+[2022-02-28 13:09:00] INFO: Task 3 located in line 3 completed successfully on node s04r1b35. Elapsed: 01:12:16
+[2022-02-28 13:09:10] INFO: Task 2 located in line 2 completed successfully on node s04r1b35. Elapsed: 01:12:27
+[2022-02-28 13:09:33] INFO: Task 5 located in line 5 completed successfully on node s04r1b30. Elapsed: 01:12:49
+[2022-02-28 13:09:43] INFO: Task 1 located in line 1 completed successfully on node s04r2b61. Elapsed: 01:41:02
+[2022-02-28 13:09:38] INFO: Task 8 located in line 8 completed successfully on node s04r1b28. Elapsed: 01:12:54
+[2022-02-28 13:09:48] INFO: Task 2 located in line 2 completed successfully on node s04r2b66. Elapsed: 01:41:07
+[2022-02-28 13:09:45] INFO: Task 6 located in line 6 completed successfully on node s04r1b34. Elapsed: 01:13:02
+[2022-02-28 13:09:48] INFO: Task 4 located in line 4 completed successfully on node s04r1b30. Elapsed: 01:13:04
+[2022-02-28 13:10:10] INFO: Task 7 located in line 7 completed successfully on node s04r1b34. Elapsed: 01:13:26
+[2022-02-28 13:10:21] INFO: Task 4 located in line 4 completed successfully on node s04r2b57. Elapsed: 01:41:40
+[2022-02-28 13:10:35] INFO: Task 10 located in line 10 completed successfully on node s04r1b26. Elapsed: 01:13:52
+[2022-02-28 13:11:01] INFO: Task 7 located in line 7 completed successfully on node s04r2b58. Elapsed: 01:42:20
+[2022-02-28 13:11:07] INFO: Task 5 located in line 5 completed successfully on node s04r2b57. Elapsed: 01:42:25
+[2022-02-28 13:11:03] INFO: Task 9 located in line 9 completed successfully on node s04r1b28. Elapsed: 01:14:19
+[2022-02-28 13:11:03] INFO: MPI engine finished
+[2022-02-28 13:11:03] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:11:03] INFO: Total time: 01:14:19
+[2022-02-28 13:11:03] INFO: Resource Utilization: 98.26%
+[2022-02-28 13:11:03] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_90.txt
+[2022-02-28 13:11:15] INFO: Task 2 located in line 2 completed successfully on node s04r1b48. Elapsed: 01:42:37
+[2022-02-28 13:11:24] INFO: Task 6 located in line 6 completed successfully on node s04r2b58. Elapsed: 01:42:42
+[2022-02-28 13:11:30] INFO: Task 5 located in line 5 completed successfully on node s04r1b45. Elapsed: 01:42:51
+[2022-02-28 13:11:58] INFO: Task 4 located in line 4 completed successfully on node s04r1b45. Elapsed: 01:43:20
+[2022-02-28 13:12:21] INFO: Task 3 located in line 3 completed successfully on node s04r1b48. Elapsed: 01:43:43
+[2022-02-28 13:12:44] INFO: Task 8 located in line 8 completed successfully on node s04r2b53. Elapsed: 01:44:02
+[2022-02-28 13:12:44] INFO: MPI engine finished
+[2022-02-28 13:12:44] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:12:44] INFO: Total time: 01:44:03
+[2022-02-28 13:12:44] INFO: Resource Utilization: 78.36%
+[2022-02-28 13:12:44] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_125.txt
+[2022-02-28 13:12:44] INFO: Task 6 located in line 6 completed successfully on node s04r1b46. Elapsed: 01:44:06
+[2022-02-28 13:12:49] INFO: Task 7 located in line 7 completed successfully on node s04r1b46. Elapsed: 01:44:10
+[2022-02-28 13:13:02] INFO: Task 1 located in line 1 completed successfully on node s04r2b04. Elapsed: 01:44:23
+[2022-02-28 13:13:56] INFO: Task 8 located in line 8 completed successfully on node s04r1b50. Elapsed: 01:45:18
+[2022-02-28 13:13:56] INFO: MPI engine finished
+[2022-02-28 13:13:56] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:13:56] INFO: Total time: 01:45:18
+[2022-02-28 13:13:56] INFO: Resource Utilization: 78.86%
+[2022-02-28 13:13:56] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_125.txt
+[2022-02-28 13:25:11] INFO: Task 2 located in line 2 completed successfully on node s04r1b31. Elapsed: 01:19:58
+[2022-02-28 13:25:23] INFO: Task 5 located in line 5 completed successfully on node s04r2b22. Elapsed: 01:20:10
+[2022-02-28 13:25:31] INFO: Task 1 located in line 1 completed successfully on node s04r1b38. Elapsed: 01:20:18
+[2022-02-28 13:25:41] INFO: Task 4 located in line 4 completed successfully on node s04r2b22. Elapsed: 01:20:27
+[2022-02-28 13:26:04] INFO: Task 3 located in line 3 completed successfully on node s04r1b31. Elapsed: 01:20:51
+[2022-02-28 13:26:06] INFO: Task 7 located in line 7 completed successfully on node s04r2b18. Elapsed: 01:20:53
+[2022-02-28 13:26:11] INFO: Task 6 located in line 6 completed successfully on node s04r2b18. Elapsed: 01:20:58
+[2022-02-28 13:26:27] INFO: Task 8 located in line 8 completed successfully on node s04r2b17. Elapsed: 01:21:13
+[2022-02-28 13:27:23] INFO: Task 9 located in line 9 completed successfully on node s04r2b17. Elapsed: 01:22:10
+[2022-02-28 13:27:55] INFO: Task 10 located in line 10 completed successfully on node s04r1b38. Elapsed: 01:22:42
+[2022-02-28 13:27:55] INFO: MPI engine finished
+[2022-02-28 13:27:55] INFO: Summary of 10 tasks: 10 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:27:55] INFO: Total time: 01:22:42
+[2022-02-28 13:27:55] INFO: Resource Utilization: 97.9%
+[2022-02-28 13:27:55] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_100.txt
+[2022-02-28 13:27:53] INFO: Task 3 located in line 3 completed successfully on node s04r2b60. Elapsed: 01:59:28
+[2022-02-28 13:28:30] INFO: Task 4 located in line 4 completed successfully on node s04r2b64. Elapsed: 02:00:06
+[2022-02-28 13:28:48] INFO: Task 2 located in line 2 completed successfully on node s04r2b60. Elapsed: 02:00:23
+[2022-02-28 13:28:49] INFO: Task 1 located in line 1 completed successfully on node s04r2b59. Elapsed: 02:00:25
+[2022-02-28 13:29:10] INFO: Task 6 located in line 6 completed successfully on node s04r2b67. Elapsed: 02:00:46
+[2022-02-28 13:29:57] INFO: Task 2 located in line 2 completed successfully on node s04r1b64. Elapsed: 02:02:13
+[2022-02-28 13:30:19] INFO: Task 3 located in line 3 completed successfully on node s04r1b64. Elapsed: 02:02:35
+[2022-02-28 13:31:15] INFO: Task 5 located in line 5 completed successfully on node s04r2b64. Elapsed: 02:02:50
+[2022-02-28 13:31:32] INFO: Task 7 located in line 7 completed successfully on node s04r2b67. Elapsed: 02:03:07
+[2022-02-28 13:31:18] INFO: Task 4 located in line 4 completed successfully on node s04r1b55. Elapsed: 02:03:33
+[2022-02-28 13:31:57] INFO: Task 8 located in line 8 completed successfully on node s04r2b72. Elapsed: 02:03:33
+[2022-02-28 13:31:58] INFO: MPI engine finished
+[2022-02-28 13:31:58] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:31:58] INFO: Total time: 02:03:33
+[2022-02-28 13:31:58] INFO: Resource Utilization: 78.56%
+[2022-02-28 13:31:58] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_150.txt
+[2022-02-28 13:31:34] INFO: Task 5 located in line 5 completed successfully on node s04r1b55. Elapsed: 02:03:50
+[2022-02-28 13:31:42] INFO: Task 1 located in line 1 completed successfully on node s04r1b63. Elapsed: 02:03:58
+[2022-02-28 13:32:32] INFO: Task 6 located in line 6 completed successfully on node s04r1b60. Elapsed: 02:04:47
+[2022-02-28 13:33:14] INFO: Task 8 located in line 8 completed successfully on node s04r1b65. Elapsed: 02:05:29
+[2022-02-28 13:34:00] INFO: Task 7 located in line 7 completed successfully on node s04r1b60. Elapsed: 02:06:15
+[2022-02-28 13:34:00] INFO: MPI engine finished
+[2022-02-28 13:34:00] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:34:00] INFO: Total time: 02:06:16
+[2022-02-28 13:34:00] INFO: Resource Utilization: 78.61%
+[2022-02-28 13:34:00] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_150.txt
+[2022-02-28 13:48:13] INFO: Task 5 located in line 5 completed successfully on node s04r2b80. Elapsed: 02:19:33
+[2022-02-28 13:48:40] INFO: Task 1 located in line 1 completed successfully on node s04r2b78. Elapsed: 02:20:00
+[2022-02-28 13:48:40] INFO: Task 7 located in line 7 completed successfully on node s04r2b83. Elapsed: 02:20:00
+[2022-02-28 13:49:20] INFO: Task 6 located in line 6 completed successfully on node s04r2b83. Elapsed: 02:20:41
+[2022-02-28 13:49:39] INFO: Task 4 located in line 4 completed successfully on node s04r2b80. Elapsed: 02:20:59
+[2022-02-28 13:50:06] INFO: Task 2 located in line 2 completed successfully on node s04r1b59. Elapsed: 02:21:28
+[2022-02-28 13:50:16] INFO: Task 3 located in line 3 completed successfully on node s04r2b75. Elapsed: 02:21:36
+[2022-02-28 13:50:37] INFO: Task 2 located in line 2 completed successfully on node s04r2b75. Elapsed: 02:21:57
+[2022-02-28 13:51:47] INFO: Task 8 located in line 8 completed successfully on node s04r2b81. Elapsed: 02:23:08
+[2022-02-28 13:51:47] INFO: MPI engine finished
+[2022-02-28 13:51:47] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:51:47] INFO: Total time: 02:23:08
+[2022-02-28 13:51:47] INFO: Resource Utilization: 78.8%
+[2022-02-28 13:51:47] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_175.txt
+[2022-02-28 13:52:17] INFO: Task 4 located in line 4 completed successfully on node s04r1b51. Elapsed: 02:23:39
+[2022-02-28 13:52:40] INFO: Task 3 located in line 3 completed successfully on node s04r1b59. Elapsed: 02:24:02
+[2022-02-28 13:53:04] INFO: Task 6 located in line 6 completed successfully on node s04r1b54. Elapsed: 02:24:26
+[2022-02-28 13:53:31] INFO: Task 1 located in line 1 completed successfully on node s04r1b52. Elapsed: 02:24:53
+[2022-02-28 13:53:42] INFO: Task 7 located in line 7 completed successfully on node s04r1b54. Elapsed: 02:25:04
+[2022-02-28 13:53:50] INFO: Task 5 located in line 5 completed successfully on node s04r1b51. Elapsed: 02:25:12
+[2022-02-28 13:54:18] INFO: Task 8 located in line 8 completed successfully on node s04r1b49. Elapsed: 02:25:40
+[2022-02-28 13:54:18] INFO: MPI engine finished
+[2022-02-28 13:54:18] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 13:54:18] INFO: Total time: 02:25:40
+[2022-02-28 13:54:18] INFO: Resource Utilization: 79.24%
+[2022-02-28 13:54:18] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_175.txt
+[2022-02-28 14:06:58] INFO: Task 3 located in line 3 completed successfully on node s04r2b68. Elapsed: 02:38:18
+[2022-02-28 14:07:27] INFO: Task 2 located in line 2 completed successfully on node s04r2b68. Elapsed: 02:38:47
+[2022-02-28 14:08:24] INFO: Task 7 located in line 7 completed successfully on node s04r2b73. Elapsed: 02:39:44
+[2022-02-28 14:09:17] INFO: Task 5 located in line 5 completed successfully on node s04r2b69. Elapsed: 02:40:37
+[2022-02-28 14:09:44] INFO: Task 4 located in line 4 completed successfully on node s04r2b69. Elapsed: 02:41:04
+[2022-02-28 14:10:40] INFO: Task 6 located in line 6 completed successfully on node s04r2b73. Elapsed: 02:42:00
+[2022-02-28 14:11:26] INFO: Task 1 located in line 1 completed successfully on node s04r2b76. Elapsed: 02:42:46
+[2022-02-28 14:11:27] INFO: Task 2 located in line 2 completed successfully on node s04r1b66. Elapsed: 02:42:48
+[2022-02-28 14:11:52] INFO: Task 4 located in line 4 completed successfully on node s04r1b57. Elapsed: 02:43:13
+[2022-02-28 14:11:53] INFO: Task 8 located in line 8 completed successfully on node s04r2b84. Elapsed: 02:43:13
+[2022-02-28 14:11:53] INFO: MPI engine finished
+[2022-02-28 14:11:53] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 14:11:53] INFO: Total time: 02:43:13
+[2022-02-28 14:11:53] INFO: Resource Utilization: 78.82%
+[2022-02-28 14:11:53] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_200.txt
+[2022-02-28 14:12:02] INFO: Task 6 located in line 6 completed successfully on node s04r1b58. Elapsed: 02:43:24
+[2022-02-28 14:12:14] INFO: Task 3 located in line 3 completed successfully on node s04r1b66. Elapsed: 02:43:35
+[2022-02-28 14:12:50] INFO: Task 5 located in line 5 completed successfully on node s04r1b57. Elapsed: 02:44:11
+[2022-02-28 14:13:10] INFO: Task 1 located in line 1 completed successfully on node s04r1b56. Elapsed: 02:44:31
+[2022-02-28 14:14:31] INFO: Task 7 located in line 7 completed successfully on node s04r1b58. Elapsed: 02:45:52
+[2022-02-28 14:16:50] INFO: Task 8 located in line 8 completed successfully on node s04r1b61. Elapsed: 02:48:12
+[2022-02-28 14:16:50] INFO: MPI engine finished
+[2022-02-28 14:16:50] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 14:16:50] INFO: Total time: 02:48:12
+[2022-02-28 14:16:50] INFO: Resource Utilization: 78.22%
+[2022-02-28 14:16:50] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_200.txt
+[2022-02-28 14:45:41] INFO: Task 6 located in line 6 completed successfully on node s04r2b79. Elapsed: 03:16:58
+[2022-02-28 14:46:23] INFO: Task 3 located in line 3 completed successfully on node s04r2b71. Elapsed: 03:17:40
+[2022-02-28 14:46:33] INFO: Task 2 located in line 2 completed successfully on node s04r2b71. Elapsed: 03:17:50
+[2022-02-28 14:47:26] INFO: Task 4 located in line 4 completed successfully on node s04r2b82. Elapsed: 03:18:43
+[2022-02-28 14:47:41] INFO: Task 7 located in line 7 completed successfully on node s04r2b79. Elapsed: 03:18:58
+[2022-02-28 14:50:21] INFO: Task 1 located in line 1 completed successfully on node s04r2b77. Elapsed: 03:21:38
+[2022-02-28 14:50:53] INFO: Task 5 located in line 5 completed successfully on node s04r2b82. Elapsed: 03:22:10
+[2022-02-28 14:51:04] INFO: Task 8 located in line 8 completed successfully on node s04r1b39. Elapsed: 03:22:21
+[2022-02-28 14:51:04] INFO: MPI engine finished
+[2022-02-28 14:51:04] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 14:51:04] INFO: Total time: 03:22:21
+[2022-02-28 14:51:04] INFO: Resource Utilization: 78.88%
+[2022-02-28 14:51:04] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/PINK1_D21_k1_250.txt
+[2022-02-28 14:51:46] INFO: Task 3 located in line 3 completed successfully on node s04r1b13. Elapsed: 03:23:07
+[2022-02-28 14:51:49] INFO: Task 4 located in line 4 completed successfully on node s04r1b20. Elapsed: 03:23:10
+[2022-02-28 14:52:13] INFO: Task 2 located in line 2 completed successfully on node s04r1b13. Elapsed: 03:23:34
+[2022-02-28 14:52:45] INFO: Task 6 located in line 6 completed successfully on node s04r1b22. Elapsed: 03:24:06
+[2022-02-28 14:54:09] INFO: Task 7 located in line 7 completed successfully on node s04r1b22. Elapsed: 03:25:30
+[2022-02-28 14:54:48] INFO: Task 5 located in line 5 completed successfully on node s04r1b20. Elapsed: 03:26:08
+[2022-02-28 14:55:30] INFO: Task 8 located in line 8 completed successfully on node s04r1b18. Elapsed: 03:26:51
+[2022-02-28 14:56:00] INFO: Task 1 located in line 1 completed successfully on node s04r1b15. Elapsed: 03:27:21
+[2022-02-28 14:56:00] INFO: MPI engine finished
+[2022-02-28 14:56:00] INFO: Summary of 8 tasks: 8 OK, 0 FAILED, 0 CANCELLED, 0 INVALID.
+[2022-02-28 14:56:00] INFO: Total time: 03:27:21
+[2022-02-28 14:56:00] INFO: Resource Utilization: 79.08%
+[2022-02-28 14:56:00] Finished greasing /.statelite/tmpfs/gpfs/projects/bsc79/bsc79126/PD_NMTF_uniqueEs_AUTOMATED/auxStep_Bestk1k2_Nord3v2/tasks_DispCoeffstep6/Control_D06_k1_250.txt

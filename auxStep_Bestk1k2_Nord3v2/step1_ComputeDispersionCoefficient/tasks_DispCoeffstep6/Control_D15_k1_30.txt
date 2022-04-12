@@ -1,0 +1,10 @@
+python ComputeDispersionCoefficient.py Control_D15 30 10
+python ComputeDispersionCoefficient.py Control_D15 30 20
+python ComputeDispersionCoefficient.py Control_D15 30 30
+python ComputeDispersionCoefficient.py Control_D15 30 40
+python ComputeDispersionCoefficient.py Control_D15 30 50
+python ComputeDispersionCoefficient.py Control_D15 30 60
+python ComputeDispersionCoefficient.py Control_D15 30 70
+python ComputeDispersionCoefficient.py Control_D15 30 80
+python ComputeDispersionCoefficient.py Control_D15 30 90
+python ComputeDispersionCoefficient.py Control_D15 30 100
