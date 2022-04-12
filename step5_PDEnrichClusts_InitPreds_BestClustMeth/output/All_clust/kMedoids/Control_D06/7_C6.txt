@@ -1,0 +1,8 @@
+SLC1A5	0		
+ANXA1	0	Gene4PD	
+ASS1	0	Gene4PD	
+SLC25A43	0		
+CMBL	7	Gene4PD	
+CD9	0	Gene4PD	
+PIR	0		
+ME1	0		

@@ -1,0 +1,151 @@
+Prolactin signaling pathway 	0.010381519640682029
+Proteoglycans in cancer 	5.424188736572462e-07
+Transcriptional misregulation in cancer 	0.023343646698909114
+Endometrial cancer 	0.0002050829888927107
+Glioma 	0.022087044171241726
+Human cytomegalovirus infection 	9.928726571744043e-10
+Glutathione metabolism 	0.0403756986291785
+Breast cancer 	3.0556632325866896e-05
+Viral carcinogenesis 	0.0008523019744202414
+Kaposi sarcoma	6.946246492223942e-08
+Salmonella infection 	3.5383644840579517e-06
+Measles 	8.853218836420801e-06
+Olfactory transduction 	0.02054084709825561
+GnRH signaling pathway 	0.00010719297194638385
+Diabetic cardiomyopathy 	5.4340577829665665e-05
+Ferroptosis 	5.4340577829665665e-05
+Porphyrin and chlorophyll metabolism 	0.027316967875046037
+Long	0.015316459668494318
+mTOR signaling pathway 	0.030697781519413554
+NOD	6.946246492223942e-08
+Leukocyte transendothelial migration 	0.01731386529526178
+VEGF signaling pathway 	0.02256238049862284
+Toxoplasmosis 	1.065229484780601e-06
+Longevity regulating pathway 	4.0283988308998753e-07
+Human T	0.00025423502422196586
+Fluid shear stress and atherosclerosis 	4.167204342121888e-07
+One carbon pool by folate 	0.03837996493296417
+Apoptosis 	1.783108189536513e-12
+Parkinson disease 	5.815282836810748e-08
+Platelet activation 	0.0005170366035348758
+Adipocytokine signaling pathway 	0.0007792600686167017
+Nitrogen metabolism 	0.031432881578944895
+Yersinia infection 	6.39621062939201e-05
+Growth hormone synthesis, secretion and action 	0.0005808485697148591
+EGFR tyrosine kinase inhibitor resistance 	1.9465310666282847e-05
+TNF signaling pathway 	4.136136303381409e-06
+Human papillomavirus infection 	0.002262589507504646
+Renin	0.031432881578944895
+Estrogen signaling pathway 	7.985723537800901e-07
+Acute myeloid leukemia 	0.04637695455341768
+Glucagon signaling pathway 	0.002716502819854997
+Alzheimer disease 	5.926496011816672e-12
+PI3K	4.567820129043465e-06
+MicroRNAs in cancer 	2.74409436526949e-07
+Ras signaling pathway 	0.0005318291089644249
+Spinocerebellar ataxia 	3.542803825079215e-05
+Osteoclast differentiation 	5.316185637610033e-06
+Hepatitis C 	7.2516695001324e-07
+Circadian rhythm 	0.000906275340128084
+Thyroid hormone signaling pathway 	0.0031089635407749857
+Cortisol synthesis and secretion 	0.0019073639880403735
+Platinum drug resistance 	4.567820129043465e-06
+Amyotrophic lateral sclerosis 	1.262840387687105e-07
+Malaria 	0.016500009351153824
+RIG	0.0012142666370929319
+Endocrine resistance 	1.787552793002477e-06
+Prostate cancer 	1.8930093831596549e-06
+Longevity regulating pathway 	9.131210892052064e-08
+Glutamatergic synapse 	0.00024716409767975157
+Protein processing in endoplasmic reticulum 	0.0005114949544998001
+Sphingolipid signaling pathway 	0.0037874960903346655
+Viral myocarditis 	0.0005906693974060826
+Mineral absorption 	0.025123695954955942
+Pertussis 	0.03309101990748078
+Chagas disease 	2.6650644025498852e-05
+Ovarian steroidogenesis 	0.0068210031833209825
+Hedgehog signaling pathway 	0.039422149360398305
+Renal cell carcinoma 	0.0010258775949940847
+Necroptosis 	0.00014990962982783297
+Cushing syndrome 	6.728057946978453e-05
+AGE	4.070408158507867e-05
+Pancreatic secretion 	0.018644981195782853
+C	0.0020593595842456464
+Tuberculosis 	0.0004948797008453275
+Hepatocellular carcinoma 	4.499126481980989e-05
+Central carbon metabolism in cancer 	5.0362870190375496e-05
+Oxytocin signaling pathway 	0.011033226231298286
+Fc gamma R	0.04637695455341768
+Relaxin signaling pathway 	0.007363238993458258
+Melanoma 	0.002704979544080924
+Human immunodeficiency virus 1 infection 	2.833882419269185e-05
+Prion disease 	3.5383644840579517e-06
+ErbB signaling pathway 	5.391108459365407e-05
+Insulin signaling pathway 	0.00016109737773432062
+Parathyroid hormone synthesis, secretion and action 	0.0006737661966961831
+African trypanosomiasis 	0.003960530019878226
+Carbon metabolism 	0.014574425033225822
+Neutrophil extracellular trap formation 	0.010760138001213717
+Gastric cancer 	0.00012775272568357946
+Pancreatic cancer 	9.641076696038136e-08
+Neuroactive ligand	0.0013585985430263478
+Cholesterol metabolism 	0.0018258926521646692
+Hepatitis B 	5.237922404742924e-06
+Insulin resistance 	0.00030171296118730297
+Insulin secretion 	0.04564313725128084
+Rap1 signaling pathway 	0.0011542535066468098
+cAMP signaling pathway 	3.593235321806509e-05
+Pathways in cancer 	1.1384337953752147e-14
+Coronavirus disease 	0.04637695455341768
+Inflammatory mediator regulation of TRP channels 	0.0016566899330600236
+Antigen processing and presentation 	0.006675436404671661
+Focal adhesion 	0.001254060324931899
+Legionellosis 	0.003126853310559799
+Bladder cancer 	4.820828532154203e-09
+Pathogenic Escherichia coli infection 	3.593235321806509e-05
+Mitophagy 	6.495058386344024e-05
+Leishmaniasis 	5.343466598004677e-07
+Chronic myeloid leukemia 	0.007672318525981714
+Dopaminergic synapse 	1.998489814656242e-05
+Influenza A 	0.0031089635407749857
+T cell receptor signaling pathway 	7.35105900514431e-05
+Vascular smooth muscle contraction 	0.0013585985430263478
+GnRH secretion 	0.027288656029125752
+Chemokine signaling pathway 	0.0054389154616192046
+HIF	8.031980800259483e-05
+Shigellosis 	5.503686759825316e-09
+Calcium signaling pathway 	1.5945835336386342e-09
+AMPK signaling pathway 	0.0008523019744202414
+Cellular senescence 	0.0003374524330346273
+Morphine addiction 	4.480977608582632e-05
+p53 signaling pathway 	0.038629255430202486
+Huntington disease 	0.003126853310559799
+Non	0.0004948797008453275
+IL	8.601235549320908e-07
+Non	1.998489814656242e-05
+Signaling pathways regulating pluripotency of stem cells 	0.00852447668233308
+FoxO signaling pathway 	0.021107726037448805
+Thyroid hormone synthesis 	5.291622244234845e-06
+Apoptosis 	0.003126853310559799
+PD	2.3119442445922753e-06
+Apelin signaling pathway 	0.00036866858227096896
+Pathways of neurodegeneration 	0.0007381101029763113
+Fc epsilon RI signaling pathway 	2.0924176292777945e-17
+Autophagy 	0.011033226231298286
+Serotonergic synapse 	1.4685556073044925e-10
+Amoebiasis 	0.008491841055983418
+Th17 cell differentiation 	0.006675436404671661
+Amphetamine addiction 	0.012664635353528454
+Small cell lung cancer 	0.0018737612145158001
+Cocaine addiction 	0.0008016788870226039
+Epstein	2.7806278543741066e-06
+Renin secretion 	2.74409436526949e-07
+Basal cell carcinoma 	0.003986361140718449
+Colorectal cancer 	0.03303580637461885
+MAPK signaling pathway 	6.529956181866914e-05
+Toll	3.1234154955577665e-09
+Type II diabetes mellitus 	2.1705283975470056e-06
+Natural killer cell mediated cytotoxicity 	0.00023095960070310142
+Choline metabolism in cancer 	0.027316967875046037
+Neurotrophin signaling pathway 	0.003911291246481392
+Cholinergic synapse 	1.0664744258838363e-06

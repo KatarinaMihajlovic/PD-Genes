@@ -1,0 +1,4 @@
+STMN1	0		
+IGFBP5	0		
+TMSB4X	0	Gene4PD	
+TMSB10	0		

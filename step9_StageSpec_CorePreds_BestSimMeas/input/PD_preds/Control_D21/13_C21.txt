@@ -1,0 +1,6 @@
+HNRNPH1	0		
+XPO1	0		
+SNW1	0		
+LARP7	0		
+STAU1	3		
+CHD4	0		
