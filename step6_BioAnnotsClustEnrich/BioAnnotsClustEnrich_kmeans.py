@@ -1,4 +1,4 @@
-import math
+import math, sys
 from scipy.stats import hypergeom
 import numpy as np
 import os.path
@@ -204,7 +204,7 @@ nets_leg = {'EXP':'E', 'PPI':'E+P','GI':'E+G','MI':'E+M','COEX':'E+C',
             'PPI+GI':'E+P+G','PPI+MI':'E+P+M','PPI+COEX':'E+P+C','COEX+GI':'E+C+G','COEX+MI':'E+C+M','GI+MI':'E+G+M',
             'GI+COEX+MI':'E+G+C+M','PPI+GI+MI':'E+P+G+M','PPI+COEX+MI':'E+P+C+M','PPI+GI+COEX':'E+P+G+C', 'ALL':'E+P+G+C+M'}
 
-Flag = False
+Flag = str(sys.argv[1])
 
 ER_clusters_BP_ccs = x = [[] for i in range(len(nets_leg))]
 ER_clusters_RP_ccs = x = [[] for i in range(len(nets_leg))]
@@ -441,17 +441,10 @@ for i in range(N):
 
 	ax.set_ylabel('Clusters with enriched annotations (%)', fontsize = 22, fontweight = 'bold')
 	ax.set_xticks(ind+width)
-	ax.set_xticklabels(all_nets,  fontsize = 22, rotation=90) #nets_everythinga should be all_nets
+	ax.set_xticklabels(all_nets,  fontsize = 22, rotation=90) 
 	ax.tick_params(axis='y', which='major', labelsize=20)
 	ax.legend( (rects1[0], rects2[0], rects3[0]), ('KP', 'RP', 'GO-BP'),  fontsize = 22, loc = 'upper left')
-	# plt.ylim(0,100)
-# 	plt.title('Average across all cell conditions',  fontsize = 30, pad = 24)
 
-# 	print(all_nets[i-1])
-# 	print(ER_clusters_KP[i-1])
-# 	print(ER_clusters_RP[i-1])
-# 	print(ER_clusters_BP[i-1])
-# 	print('\n')
 
 plt.tight_layout()    
 plt.savefig('output/AVG_ECs.png', dpi = 600)	
@@ -462,7 +455,7 @@ plt.close()
 # 3 scenarios
 netsplot = ['E','E+C','E+P+G+C+M']
 N = len(netsplot)
-ind = np.arange(N)  # the x locations for the groups
+ind = np.arange(N)  
 fig = plt.figure(figsize=(16, 9))
 ax = fig.add_subplot(111)
 ax.grid(color='grey', axis='y', linestyle='-', linewidth=0.25, alpha=0.5)
@@ -478,7 +471,7 @@ for i in range(N):
     rects3 = ax.bar(ind[i]+width*2, ER_clusters_BP_ccs[index_r][-2], yerr=ER_clusters_BP_ccs[index_r][-1], width=width, color='b', alpha = alpha, ecolor='black', capsize=capsize)
 ax.set_ylabel('Clusters with enriched annotations (%)', fontsize = 24, fontweight = 'bold')
 ax.set_xticks(ind+width)
-ax.set_xticklabels(netsplot,  fontsize = 26) #nets_everythinga should be all_nets
+ax.set_xticklabels(netsplot,  fontsize = 26) 
 ax.tick_params(axis='y', which='major', labelsize=24)
 ax.legend( (rects1[0], rects2[0], rects3[0]), ('KP', 'RP', 'GO-BP'),  fontsize = 24, loc = 'upper left')
 
@@ -503,17 +496,11 @@ for i in range(N):
 
 	ax.set_ylabel('Genes with enriched annotations (%)', fontsize = 22, fontweight = 'bold')
 	ax.set_xticks(ind+width)
-	ax.set_xticklabels(all_nets,  fontsize = 22, rotation=90) #nets_everythinga should be all_nets
+	ax.set_xticklabels(all_nets,  fontsize = 22, rotation=90) 
 	ax.tick_params(axis='y', which='major', labelsize=20)
 	ax.legend( (rects1[0], rects2[0], rects3[0]), ('KP', 'RP', 'GO-BP'),  fontsize = 22, loc = 'upper left')
 	plt.ylim(0,60)
-# 	plt.title('Average across all cell conditions',  fontsize = 30, pad = 24)
 
-# 	print(all_nets[i-1])
-# 	print(ER_clusters_KP[i-1])
-# 	print(ER_clusters_RP[i-1])
-# 	print(ER_clusters_BP[i-1])
-# 	print('\n')
 
 plt.tight_layout()    
 plt.savefig('output/AVG_EGs.png', dpi = 600)	
@@ -553,49 +540,3 @@ plt.savefig('output/AVG_EGs_3scs.png', dpi = 600)
 plt.show()	
 plt.close()
 
-        
-        
-        
-	# 						save_dir = f'output/{cell_cond}/{nets}/All_genes'
-	# 						if not os.path.exists(save_dir):
-	# 							os.makedirs(save_dir)
-	# 						with open(f'{save_dir}/{clust_meth}_KP_terms.pkl', 'wb') as handle:
-	# 							pickle.dump(KP_terms, handle)
-	# 						with open(f'{save_dir}/{clust_meth}_RP_terms.pkl', 'wb') as handle:
-	# 							pickle.dump(RP_terms, handle)            
-	# 						with open(f'{save_dir}/{clust_meth}_BP_terms.pkl', 'wb') as handle:
-	# 							pickle.dump(BP_terms, handle)
-	# 						with open(f'{save_dir}/{clust_meth}_BP_terms_meaning.pkl', 'wb') as handle:
-	# 							pickle.dump(BP_terms_meaning, handle)
-
-	# 						### isolate just PD enriched clusts
-	# 						save_dir = f'output/{cell_cond}/{nets}/PD_genes'
-	# 						if not os.path.exists(save_dir):
-	# 							os.makedirs(save_dir)
-	# 						PDEnrClusts = {}
-	# 						for clust in range(len(KP_terms)):	
-	# 							if clust in PDEnrClusts_indices:
-	# 								PDEnrClusts[clust] = KP_terms[clust]
-	# 						with open(f'{save_dir}/{clust_meth}_KP_terms_PDEnrCls.pkl', 'wb') as handle:
-	# 							pickle.dump(PDEnrClusts, handle)
-
-	# 						PDEnrClusts = {}
-	# 						for clust in range(len(RP_terms)):	
-	# 							if clust in PDEnrClusts_indices:
-	# 								PDEnrClusts[clust] = RP_terms[clust]
-	# 						with open(f'{save_dir}/{clust_meth}_RP_terms_PDEnrCls.pkl', 'wb') as handle:
-	# 							pickle.dump(PDEnrClusts, handle)
-
-	# 						PDEnrClusts = {}
-	# 						for clust in range(len(BP_terms)):	
-	# 							if clust in PDEnrClusts_indices:
-	# 								PDEnrClusts[clust] = BP_terms[clust]
-	# 						with open(f'{save_dir}/{clust_meth}_BP_terms_PDEnrCls.pkl', 'wb') as handle:
-	# 							pickle.dump(PDEnrClusts, handle)   
-	# 						    
-	# 						PDEnrClusts = {}
-	# 						for clust in range(len(BP_terms_meaning)):	
-	# 							if clust in PDEnrClusts_indices:
-	# 								PDEnrClusts[clust] = BP_terms_meaning[clust]
-	# 						with open(f'{save_dir}/{clust_meth}_BP_terms_meaning_PDEnrCls.pkl', 'wb') as handle:
-	# 							pickle.dump(PDEnrClusts, handle)                        

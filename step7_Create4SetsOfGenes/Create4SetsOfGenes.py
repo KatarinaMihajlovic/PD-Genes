@@ -48,8 +48,3 @@ for cell_cond1_file in EXP_files:
     with open(f'{Gene_sets_dir}/{cell_cond1}.pkl', 'wb') as handle:
         pickle.dump(Gene_sets, handle)
 
-
-'''
-with open(f'{Gene_sets_dir}/{cell_cond1}.pkl', 'rb') as handle:
-    Gene_sets_dict = pickle.load(handle)
-'''

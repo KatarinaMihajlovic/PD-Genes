@@ -108,36 +108,3 @@ for C1_i in range(len(cell_conds)): #C1 = cell condition 1
             save_file = f'output/{comparison_types[2]}/{cell_cond_1}-{cell_cond_2}'
             np.save(save_file, Eucl_dist)          
                            
-                            
-            #cos_sim_df = pd.DataFrame(cos_sim, index = G1_1AE.index, columns=G1_1AE.index)
-            
-            '''
-            n = len(G1_1_vals)
-            Pearson_corr = np.empty((n, n), float)
-            for i in range(len(G1_1_vals)):
-                gene1_embed = G1_1_vals[i]
-                if i%1000 == 0:
-                    print(i)
-                for j in range(len(G1_2_vals)):
-                    gene2_embed = G1_2_vals[j]
-                    pearson_corr, pvalue_pear = scipy.stats.pearsonr(gene1_embed, gene2_embed)
-                    Pearson_corr[i][j] = pearson_corr
-            
-            Spearman_corr = np.empty((n, n), float)
-            for i in range(len(G1_1_vals)):
-                gene1_embed = G1_1_vals[i]
-                for j in range(len(G1_2_vals)):
-                    gene2_embed = G1_2_vals[j]
-                    spearman_corr, pvalue_spear = scipy.stats.spearmanr(gene1_embed, gene2_embed)
-                    Spearman_corr[i][j] = spearman_corr
-            '''
-            '''
-            fig, ax = plt.subplots()
-            im = ax.imshow(cos_sim)
-            plt.title(f'{cell_cond_1} - {cell_cond_2}')
-            plt.show()
-            
-            fig, ax = plt.subplots(figsize=(11, 9))
-            hm = sb.heatmap(cos_sim,annot=False)
-            plt.show()
-            '''

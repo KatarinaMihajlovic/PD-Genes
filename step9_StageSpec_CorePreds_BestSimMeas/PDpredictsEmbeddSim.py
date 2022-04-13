@@ -253,7 +253,6 @@ for sim_measure in sim_measures:
         ccs2compare = ccs2compare.split('.')[0]
         print(ccs2compare)
         save_dir = f'output/AllPredictions/{sim_measure}'
-        save_dir2 = f'output/top20/{sim_measure}'
         
         PD_cond = ccs2compare.split('-')[1]
         in_dir = 'input/PD_preds'
@@ -274,7 +273,6 @@ for sim_measure in sim_measures:
             pickle.dump(cc1cc2_genes, handel)
 
         savePDPreds(cc1cc2_genes, f'{legend[ccs2compare]}_PDpreds', save_dir = save_dir)
-        savePDPreds(top20genes_cc1cc2, f'{legend[ccs2compare]}_top20', save_dir = save_dir2)
         
         PD_pos = []
         for gene in cc1cc2_genes:
@@ -301,26 +299,6 @@ for sim_measure in sim_measures:
         PDGs2Background_dist(ccs2compare, sim_measure, DisGeNet_PDgenes, PD_Gs = 'PD genes')
     
 
-        
-# avergae pos of PD genes 
-avg_poss = {key:[] for key in sim_measures}
-for sim_measure in PDvalidations_pos.keys():
-    for lst in PDvalidations_pos[sim_measure]:        
-        avg_pos = sum(lst[1]) / len(lst[1])
-        avg_poss[sim_measure].append(avg_pos)
-for sim_measure in avg_poss.keys():
-    lst = avg_poss[sim_measure]
-    avg_pos = sum(lst) / len(lst)
-    print(sim_measure, avg_pos)
-    
-with open('output/Best_distance_meas.txt','w') as f:
-    for sim_measure in avg_poss.keys():
-        f.write(f'{sim_measure}\t{avg_poss[sim_measure]}\n')
-    f.write('\n')
-    for sim_measure in avg_poss.keys():
-        lst = avg_poss[sim_measure]
-        avg_pos = sum(lst) / len(lst)
-        f.write(f'{sim_measure}\t{avg_pos}\n')
 
 ### finding out the best distance measure -> cosine #make a statistic based on precision and recall, like Marinka
 # precision - number of positive outcomes among top k-rated genes
