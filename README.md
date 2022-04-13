@@ -12,24 +12,18 @@ The jupyter notebook [PD_NMTF_uniqueEs_AUTOMATED.ipynb](https://github.com/Katar
 ### What can you find in this repository?
 This repository contains all data, scripts and results related to our recent work. 
 In particular, you will find:
+- the jupyter notebook [PD_NMTF_uniqueEs_AUTOMATED.ipynb](https://github.com/KatarinaMihajlovic/PD-Genes/PD_NMTF_uniqueEs_AUTOMATED.ipynb) that contains the complete pipeline
 - one folder [CommonData](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/CommonData) that contains commonly used data in several steps of the pipeline
-- one folder [auxStep_Bestk1k2](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2) that contains folders:
-  - [step1_ComputeDispersionCoefficient] (https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2/step1_ComputeDispersionCoefficient) that contains the code on how to compute the dispersion coefficients for multiple combinations of cluster numbers (k<sub>1</sub> and k<sub>2</sub>) for individual cell conditions, and the corresponding results 
-  - [step2_IdentifyBestk1k2](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2/step2_IdentifyBestk1k2) that contains the code which visualizes 
-the dispersion coefficients of different k<sub>1</sub> and k<sub>2</sub> values, allowing us to choose a k<sub>1</sub> and k<sub>2</sub> that lead to high dispersion coefficients
+- folders for each step of the analysis (Step1 - Step11; [auxStep_JustifyClusteringDistanceApproach](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_JustifyClusteringDistanceApproach)) from the jupyter notebook
 
-- [preprocessing.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/preprocessing.py), [creation_matrices.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/creation_matrices.py), [fusion_networks.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/fusion_networks.py), [extraction_classification.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/extraction_classification.py), python files which contain the main steps of the process,
-- two folders [Datasets](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Datasets) and [Datasets_created](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Datasets_created) that contain the TCGA gene expression data retrieved through [GMQL](http://gmql.eu) and [PyGMQL](https://pygmql.readthedocs.io/en/latest/),
-- one folder [Graphs](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Graphs) that contains the LIHC fused network in the format required by [Gephi](https://gephi.org),
-- one folder [Extracted](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Extracted) that contains the data regarding all the genes extracted with the pipeline,
-- one folder [Auc_acc_f1](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Auc_acc_f1) that contains the tables with the performances values after having executed [extraction_classification.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/extraction_classification.py),
-- one folder [Boxplots](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Boxplots) that contains the boxplots with the comparisons of the performances of the classification,
-- one file [matrix_GTypeGName.xlsx](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/matrix_GTypeGName.xls) that contains the correspondences between the gene symbols and the gene type,
-- one folder [Results](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Results) containing the gene symbols of the LIHC fused network, the IC gene symbols for LIHC, KIRC and PRAD, and the PubMed evaluation results for LIHC presented in [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb),
-- one folder [Supplementary data](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Supplementary%20data) containing the [DB_pharmacologically_active.csv](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Supplementary%20data/DB_pharmacologically_active.csv) file downloaded from DrugBank to be used in the DrugBank evaluation part of [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb). 
+- one folder [auxStep_Bestk1k2](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2) that contains folders:
+  - [step1_ComputeDispersionCoefficient](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2/step1_ComputeDispersionCoefficient) that contains the code on how to compute the dispersion coefficients for multiple combinations of cluster numbers (k<sub>1</sub> and k<sub>2</sub>) for individual cell conditions, and the corresponding results 
+  - [step2_IdentifyBestk1k2](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2/step2_IdentifyBestk1k2) that contains the code which visualizes 
+the dispersion coefficients of different k<sub>1</sub> and k<sub>2</sub> values, allowing us to choose k<sub>1</sub> and k<sub>2</sub> that lead to high dispersion coefficients
+
 
 ### How to run the notebook
 pip install -r requirements.txt
 
-Execute the jupyter notebook [Pipeline.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Pipeline.ipynb) until the part 'After extraction of communities with Gephi'.
-Use [Gephi](https://gephi.org) in order to extract the relevant communities and save the genes in the folder [Extracted](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Extracted) with the name 'IC_'+str(tumor)+'.csv'.
+Execute the jupyter notebook [PD_NMTF_uniqueEs_AUTOMATED.ipynb](https://github.com/KatarinaMihajlovic/PD-Genes/PD_NMTF_uniqueEs_AUTOMATED.ipynb) 
+
