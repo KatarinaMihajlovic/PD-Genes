@@ -4,10 +4,8 @@ Created on Fri Oct  1 10:12:57 2021
 
 @author: kmihajlo
 """
-from Bio import Entrez
 import os, requests, re, math
-import pickle
-import pandas as pd
+import pickle, sys
 from scipy.stats import hypergeom, mannwhitneyu
 import matplotlib.pyplot as plt
 import numpy as np
@@ -286,8 +284,8 @@ def LitEnrich(All_litValid, gene_list, outf):
 ####### MAIN CODE
 day_dict = {'0':'IPSCs', '6':'D06', '15':'D15', '21':'D21'}
 
-Flag1 = False
-Flag2 = False
+Flag1 = str(sys.argv[1])
+Flag2 = str(sys.argv[2])
 
 with open('input/PD_genes_DGN_DEGs.pkl', 'rb') as handle:
     PD_genes = pickle.load(handle) 
@@ -328,7 +326,7 @@ for file_out in filens:
                             f.write(f'{gene}\t{cc1cc2_PDpreds_LitValid[gene][0]}\t{cc1cc2_PDpreds_LitValid[gene][1]}\t{cc1cc2_PDpreds_LitValid[gene][2]}\n')
                     with open(f'{save_dir}/{filen}.pkl', 'wb') as fp:   
                         pickle.dump(cc1cc2_PDpreds_LitValid, fp)
-                    Flag1 = False
+                    
                 else:
                     with open(f'{save_dir}/{filen}.pkl', 'rb') as handle:
                         cc1cc2_PDpreds_LitValid = pickle.load(handle) 
@@ -349,7 +347,7 @@ for file_out in filens:
                         os.makedirs(save_dir2)        
                     with open(f'{save_dir2}/{cc_pair}_OtherGenes.pkl', 'wb') as fp:   
                         pickle.dump(cc1cc2_OtherGenes_LitValid, fp)
-                    Flag2 = False
+                    
                 else:  
                     with open(f'{save_dir2}/{cc_pair}_OtherGenes.pkl', 'rb') as handle:
                         cc1cc2_OtherGenes_LitValid = pickle.load(handle) 
@@ -433,8 +431,8 @@ for file_out in filens:
     
     ### plot Validated Genes and p values of enrichments of pairwise PD preds
     BarPlotValidGenes(PDpreds_enrich, file_out, filens)
-
-
+    Flag1 = False
+    Flag2 = False
 
 ######### Core PD predictions Validation
 save_dir = 'output/CorePreds'
@@ -446,7 +444,7 @@ if not os.path.exists(save_dir):
 import csv
 
 
-Flag = False
+Flag = str(sys.argv[3])
 if Flag:
     Entrez2Symbol_file = open('input/Homo_sapiens.gene_info', 'r')
     Entrez2Sym = Entrez2Symbols(Entrez2Symbol_file)

@@ -65,7 +65,7 @@ def IsolatePDenrichCls(clst_opt, All_litValidGenes, PD_genes):
                 
                 i = 0
                 for clst in range(len(ClustsPDEnrich)):
-                    print(clst)
+                    # print(clst)
                     PD_gene_Predictions = []
                     outfile_name = f'{clst}_{labels_key[cell_cond]}.txt'
                     outfile = open(f'{save_dirA}/{outfile_name}','w')
@@ -137,18 +137,3 @@ with open('output/Best_cm_allclusts.txt', 'w') as f:
     for i in range(len(Best_cm_list_allclusts)):
         f.write(f'{Best_cm_list_allclusts[i][0]}\t{Best_cm_list_allclusts[i][1]}\t{Best_cm_list_allclusts[i][2]}\n')                        
                   
-Best_cm_list_PINK1_allclusts = []
-for cm in Best_cm_PINK1_allclusts.keys():
-    avg = sum(Best_cm_PINK1_allclusts[cm])/len(Best_cm_PINK1_allclusts[cm])
-    Best_cm_list_PINK1_allclusts.append([cm,avg,len(Best_cm_PINK1_allclusts[cm])])  
-
-Best_cm_list_PINK1_allclusts = Sort(Best_cm_list_PINK1_allclusts)
-with open('output/Best_cm_PINK1_allclusts.txt', 'w') as f:
-    for i in range(len(Best_cm_list_PINK1_allclusts)):
-        f.write(f'{Best_cm_list_PINK1_allclusts[i][0]}\t{Best_cm_list_PINK1_allclusts[i][1]}\t{Best_cm_list_PINK1_allclusts[i][2]}\n')                                    
-                        
-                        
-# with open('input/Clusters/Control_D21/kMeans_PDEnrichClusts.pkl', 'rb') as handle:
-#     dsa = pickle.load(handle)  
-                        
-                        
