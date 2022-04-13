@@ -174,17 +174,21 @@ def computeDispersionCoefficient(clusterElements, alphas = [0.6], k1s = [3,5], k
 
 
 
-cell_cond = str(sys.argv[1])
-k1 = int(sys.argv[2])
-k2 = int(sys.argv[3])
+for i in range(2):
+    print(i)
+    if i == 0:
+        k1s = [75, 100, 125, 150, 175, 200, 250]
+        k2s = [50, 75, 100, 125, 150, 175, 200, 250]
+    elif i == 1:
+        k1s = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100] 
+        k2s = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100] 
 
-
-EXP_matrices_dir = 'input/EXP_matrices' 
-EXP_matrices_files = os.listdir(EXP_matrices_dir)
-for EXP_matrix_file in EXP_matrices_files:
-    print(EXP_matrix_file)
-    cell_cond2 = EXP_matrix_file.split('.')[0].split('_')[1] + '_' + EXP_matrix_file.split('.')[0].split('_')[2]
-    if cell_cond2 == cell_cond:
+    EXP_matrices_dir = 'input/EXP_matrices' 
+    EXP_matrices_files = os.listdir(EXP_matrices_dir)
+    for EXP_matrix_file in EXP_matrices_files:
+        print(EXP_matrix_file)
+        cell_cond = EXP_matrix_file.split('.')[0].split('_')[1] + '_' + EXP_matrix_file.split('.')[0].split('_')[2]
+        # if cell_cond2 == cell_cond:
         EXP_matrix = pd.read_csv(EXP_matrices_dir + '/' + EXP_matrix_file, index_col=0)
         SCs = EXP_matrix.columns.tolist()
         genes = EXP_matrix.index.tolist()  

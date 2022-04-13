@@ -41,7 +41,6 @@ nets_1 = ['PPI','GI','MI','COEX','EXP']
 nets_2 = ['PPI+GI','PPI+MI','PPI+COEX','COEX+GI','COEX+MI','GI+MI']
 nets_3 = ['GI+COEX+MI','PPI+GI+MI','PPI+COEX+MI','PPI+GI+COEX']
 nets_everything = ['ALL'] + nets_1 + nets_2 + nets_3
-nets_everything = ['ALL']
 
 ks = {'Control_IPSCs' : [100, 50], 'Control_D06' : [100, 50], 'Control_D10' : [100, 75], 'Control_D15' : [100, 50], 'Control_D21' : [100, 75], 
       'PINK1_IPSCs' : [100, 50], 'PINK1_D06' : [100, 50], 'PINK1_D15' : [100, 50], 'PINK1_D21' : [100, 50]}
