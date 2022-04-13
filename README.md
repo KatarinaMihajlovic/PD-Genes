@@ -6,7 +6,7 @@ This repository has been created to present the work that includes:
 2) a 3-step procedure that mines gene embedding spaces of the cell conditions obtained with NetSC-NMTF to identify PD-related gene predictions;
 3) methods for analyzing the PD-relevance of the gene predictions.
 
-The jupyter notebook [PD_NMTF_uniqueEs_AUTOMATED.ipynb](https://github.com/KatarinaMihajlovic/PD-Genes) contains the complete pipeline for: intergating molecular interaction networks with individual expression matrices, mining the resulting gene embedding spaces to get PD-related gene predictions, and computational methods for analyzing the PD-relevance of the gene predictions.
+The jupyter notebook [PD_NMTF_uniqueEs_AUTOMATED.ipynb](https://github.com/KatarinaMihajlovic/PD-Genes/PD_NMTF_uniqueEs_AUTOMATED.ipynb) contains the complete pipeline for: intergating molecular interaction networks with individual expression matrices, mining the resulting gene embedding spaces to get PD-related gene predictions, and computational methods for analyzing the PD-relevance of the gene predictions.
 
 
 ### What can you find in this repository?
