@@ -10,8 +10,14 @@ The jupyter notebook [PD_NMTF_uniqueEs_AUTOMATED.ipynb](https://github.com/Katar
 
 
 ### What can you find in this repository?
-This repository contains all data, scripts and results related to the LIHC tumor analysis.
+This repository contains all data, scripts and results related to our recent work. 
 In particular, you will find:
+- one folder [CommonData](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/CommonData) that contains commonly used data in several steps of the pipeline
+- one folder [auxStep_Bestk1k2](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2) that contains folders:
+  - [step1_ComputeDispersionCoefficient] (https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2/step1_ComputeDispersionCoefficient) that contains the code on how to compute the dispersion coefficients for multiple combinations of cluster numbers (k<sub>1</sub> and k<sub>2</sub>) for individual cell conditions, and the corresponding results 
+  - [step2_IdentifyBestk1k2](https://github.com/KatarinaMihajlovic/PD-Genes/tree/main/auxStep_Bestk1k2/step2_IdentifyBestk1k2) that contains the code which visualizes 
+the dispersion coefficients of different k<sub>1</sub> and k<sub>2</sub> values, allowing us to choose a k<sub>1</sub> and k<sub>2</sub> that lead to high dispersion coefficients
+
 - [preprocessing.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/preprocessing.py), [creation_matrices.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/creation_matrices.py), [fusion_networks.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/fusion_networks.py), [extraction_classification.py](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/extraction_classification.py), python files which contain the main steps of the process,
 - two folders [Datasets](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Datasets) and [Datasets_created](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Datasets_created) that contain the TCGA gene expression data retrieved through [GMQL](http://gmql.eu) and [PyGMQL](https://pygmql.readthedocs.io/en/latest/),
 - one folder [Graphs](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Graphs) that contains the LIHC fused network in the format required by [Gephi](https://gephi.org),
