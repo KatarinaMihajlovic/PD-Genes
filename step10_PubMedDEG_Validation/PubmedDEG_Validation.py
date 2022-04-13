@@ -315,7 +315,7 @@ for file_out in filens:
                     DEGs = f.readlines()
                 DEGs = [x[:-1] for x in DEGs]
                 
-                if Flag1:
+                if Flag1==True:
                     with open(f'{root}/{file}', 'rb') as handel:
                         cc1cc2_PD_preds = pickle.load(handel) #StageSPec Preds
                     cc1cc2_PDpreds_LitValid = Pubmed_genes(cc1cc2_PD_preds)
@@ -337,7 +337,7 @@ for file_out in filens:
                 
                 save_dir2 = 'output/Other_genes'
                 cc_pair = file.split('_')[0]
-                if Flag2:               
+                if Flag2==True:               
                     with open(f'input/All_genes/{cc_pair}_AllGenes.pkl', 'rb') as handel:
                         cc1cc2_AllGenes = pickle.load(handel)                
                     cc1cc2_OtherGenes = [gene for gene in cc1cc2_AllGenes if gene not in cc1cc2_PD_preds]
@@ -445,7 +445,7 @@ import csv
 
 
 Flag = str(sys.argv[3])
-if Flag:
+if Flag==True:
     Entrez2Symbol_file = open('input/Homo_sapiens.gene_info', 'r')
     Entrez2Sym = Entrez2Symbols(Entrez2Symbol_file)
 

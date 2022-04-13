@@ -204,7 +204,8 @@ nets_leg = {'EXP':'E', 'PPI':'E+P','GI':'E+G','MI':'E+M','COEX':'E+C',
             'PPI+GI':'E+P+G','PPI+MI':'E+P+M','PPI+COEX':'E+P+C','COEX+GI':'E+C+G','COEX+MI':'E+C+M','GI+MI':'E+G+M',
             'GI+COEX+MI':'E+G+C+M','PPI+GI+MI':'E+P+G+M','PPI+COEX+MI':'E+P+C+M','PPI+GI+COEX':'E+P+G+C', 'ALL':'E+P+G+C+M'}
 
-Flag = str(sys.argv[1])
+# Flag = str(sys.argv[1])
+Flag = False
 
 ER_clusters_BP_ccs = x = [[] for i in range(len(nets_leg))]
 ER_clusters_RP_ccs = x = [[] for i in range(len(nets_leg))]
@@ -215,7 +216,7 @@ ER_genes_RP_ccs = x = [[] for i in range(len(nets_leg))]
 ER_genes_KP_ccs = x = [[] for i in range(len(nets_leg))]
 
 for cell_cond in cell_conds:
-	if Flag:
+	if Flag == True:
 		all_nets = []
 		genes = pd.read_csv(f'{indir}/{cell_cond}/Geneslist_{cell_cond}.csv', header = 0)
 		genes = genes.values
@@ -291,7 +292,7 @@ for cell_cond in cell_conds:
 		with open(f'output/{cell_cond}/{cell_cond}_ECs.txt') as ECf:
             # print(ECf.readlines())
 			for i in range(len(nets_everything)):
-				all_nets.append(nets_leg[ECf.readline()[:-1]])
+				all_nets.append(ECf.readline()[:-1])
 				ER_clusters_KP.append(float(ECf.readline()[:-1]))
 				ER_clusters_RP.append(float(ECf.readline()[:-1]))
 				ER_clusters_BP.append(float(ECf.readline()[:-1]))
@@ -452,7 +453,7 @@ plt.show()
 plt.close()
 
 
-# 3 scenarios
+# 3 scenarios, clsuters
 netsplot = ['E','E+C','E+P+G+C+M']
 N = len(netsplot)
 ind = np.arange(N)  
@@ -482,6 +483,8 @@ plt.close()
 
 
 #genes
+N = len(all_nets)
+ind = np.arange(N)
 fig = plt.figure(figsize=(16, 9))
 ax = fig.add_subplot(111)
 ax.grid(color='grey', axis='y', linestyle='-', linewidth=0.25, alpha=0.5)
@@ -507,7 +510,7 @@ plt.savefig('output/AVG_EGs.png', dpi = 600)
 plt.show()	
 plt.close()
         
-# 3 scenarios
+# 3 scenarios, genes
 netsplot = ['E','E+C','E+P+G+C+M']
 N = len(netsplot)
 ind = np.arange(N)  # the x locations for the groups
