@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import networkx as nx
+import numpy as np 
 
 def CreateNetwork(GeneralNet, genes_SC):
 
@@ -46,7 +47,7 @@ if not os.path.exists('output/Expression_Matrix'):
 basefolderIN = 'input/'
 basefolderOUT = 'output/'   
 
-EXPs_Entrez = pd.read_csv(f'{basefolderIN}/ExpressionMatrix/EXPs_Skupin_Entrez_Curated.csv', index_col=0)
+EXPs_Entrez = pd.read_csv(f'{basefolderIN}/ExpressionMatrix/EXPs_Skupin_Entrez_Curated.zip', index_col=0)
 genes_SC = EXPs_Entrez.index.tolist()
 
 Metadata_file = open(f'{basefolderIN}/ExpressionMatrix/Metadata.csv','r')
@@ -68,9 +69,15 @@ for cell_cond in cell_conds:
         MolecularEXPSpecificNetworks_info = open(f'{savedir_nets}/MolecularEXPSpecificNetworks_Statistics_{cell_cond}.txt','w')
         
         EXP_cellcond = pd.DataFrame(index=EXPs_Entrez.index)
+        SCs = []
+        data = []
         for SC in EXPs_Entrez:
             if SC in cell_conds_2_singlecells[cell_cond]:
-                EXP_cellcond[SC] = EXPs_Entrez[SC]      
+                SCs.append(SC)
+                data.append(list(EXPs_Entrez[SC]))
+        data = np.array(data)
+        data = data.T        
+        EXP_cellcond = pd.DataFrame(data, index=EXPs_Entrez.index, columns = SCs)
         EXP_values = EXP_cellcond.values.tolist()
 
         zero_genes = []

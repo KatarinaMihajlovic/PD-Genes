@@ -1,8 +1,0 @@
-python ComputeDispersionCoefficient.py PINK1_D15 175 50
-python ComputeDispersionCoefficient.py PINK1_D15 175 75
-python ComputeDispersionCoefficient.py PINK1_D15 175 100
-python ComputeDispersionCoefficient.py PINK1_D15 175 125
-python ComputeDispersionCoefficient.py PINK1_D15 175 150
-python ComputeDispersionCoefficient.py PINK1_D15 175 175
-python ComputeDispersionCoefficient.py PINK1_D15 175 200
-python ComputeDispersionCoefficient.py PINK1_D15 175 250

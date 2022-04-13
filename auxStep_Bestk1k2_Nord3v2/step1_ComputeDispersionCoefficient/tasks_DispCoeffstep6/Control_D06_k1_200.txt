@@ -1,8 +1,0 @@
-python ComputeDispersionCoefficient.py Control_D06 200 50
-python ComputeDispersionCoefficient.py Control_D06 200 75
-python ComputeDispersionCoefficient.py Control_D06 200 100
-python ComputeDispersionCoefficient.py Control_D06 200 125
-python ComputeDispersionCoefficient.py Control_D06 200 150
-python ComputeDispersionCoefficient.py Control_D06 200 175
-python ComputeDispersionCoefficient.py Control_D06 200 200
-python ComputeDispersionCoefficient.py Control_D06 200 250
