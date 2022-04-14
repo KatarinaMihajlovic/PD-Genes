@@ -1,11 +1,11 @@
-Regulation of actin cytoskeleton 
-Other glycan degradation 
-Bacterial invasion of epithelial cells 
-Hippo signaling pathway 
-Lysosome 
-Adrenergic signaling in cardiomyocytes 
-Endocytosis 
 cGMP
 Tight junction 
 Alcoholism 
 Phagosome 
+Bacterial invasion of epithelial cells 
+Lysosome 
+Regulation of actin cytoskeleton 
+Hippo signaling pathway 
+Endocytosis 
+Adrenergic signaling in cardiomyocytes 
+Other glycan degradation 

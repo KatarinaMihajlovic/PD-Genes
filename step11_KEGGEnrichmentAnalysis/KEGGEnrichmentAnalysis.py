@@ -268,18 +268,22 @@ def SaveSharedORUniqueTerms(sd, termsmeaning_2sets, termtype, case = 'Shared'):
             for term in terms:
                 f.write(f'{term}\n')
 
-def KEGGSubCats(KP_termsmeaning_set):     
+def KEGGSubCats(sd, KP_termsmeaning_set):     
     PDs_KEGGSubGroups = {}
     for KEGG_path in KP_termsmeaning_set:
         try:
             Subgroup = KEGGPathwCats_df[KEGGPathwCats_df['PathwayName']==KEGG_path]['Subgroup'].values[0]   
         except IndexError:
-            
            print(KEGG_path)
         if Subgroup in PDs_KEGGSubGroups:
             PDs_KEGGSubGroups[Subgroup].append(KEGG_path)
         else:
-            PDs_KEGGSubGroups[Subgroup] = [KEGG_path]        
+            PDs_KEGGSubGroups[Subgroup] = [KEGG_path]   
+    name = sd.split('/')[1]
+    with open(f'{sd}/{name}_KEGGSubGroups.txt', 'w') as f:
+        for key in PDs_KEGGSubGroups:
+            f.write(f'{key}\t{len(PDs_KEGGSubGroups[key])}\t{PDs_KEGGSubGroups[key]}\n')
+            
     return PDs_KEGGSubGroups
 
         
@@ -455,11 +459,11 @@ VennDiagramTermss(KP_terms_2sets, 'KEGG Pathways')
 ### Core PD preds
 sd = 'output/CorePreds'
 SaveSharedORUniqueTerms(sd, KP_termsmeaning_2sets, 'KPmeaning', case = 'Unique')
-CorePreds_KEGGSubGroups = KEGGSubCats(KP_termsmeaning_2sets[0])
+CorePreds_KEGGSubGroups = KEGGSubCats(sd, KP_termsmeaning_2sets[0])
 
 ### PD genes  
 sd = 'output/PDgenes'
 SaveSharedORUniqueTerms(sd, KP_termsmeaning_2sets, 'KPmeaning', case = 'Unique')
 
-PDGenes_KEGGSubGroups = KEGGSubCats(KP_termsmeaning_2sets[1])
+PDGenes_KEGGSubGroups = KEGGSubCats(sd, KP_termsmeaning_2sets[1])
 

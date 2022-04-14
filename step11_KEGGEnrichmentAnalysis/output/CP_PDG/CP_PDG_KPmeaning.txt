@@ -1,14 +1,14 @@
-Salmonella infection 
-Focal adhesion 
 Platelet activation 
-Leukocyte transendothelial migration 
-Oxytocin signaling pathway 
-Pathogenic Escherichia coli infection 
-Vascular smooth muscle contraction 
-Protein processing in endoplasmic reticulum 
-Shigellosis 
 Dopaminergic synapse 
+Salmonella infection 
 Yersinia infection 
+Leukocyte transendothelial migration 
 Proteoglycans in cancer 
+Pathogenic Escherichia coli infection 
+Protein processing in endoplasmic reticulum 
 Fc gamma R
+Vascular smooth muscle contraction 
 Pertussis 
+Oxytocin signaling pathway 
+Shigellosis 
+Focal adhesion 

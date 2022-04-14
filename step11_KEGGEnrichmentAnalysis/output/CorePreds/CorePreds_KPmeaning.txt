@@ -1,25 +1,25 @@
-Proteoglycans in cancer 	0.010796762123031394
-Adrenergic signaling in cardiomyocytes 	0.0018496320269887985
-Regulation of actin cytoskeleton 	5.518990210514555e-08
-Hippo signaling pathway 	0.030596014831669682
-Salmonella infection 	8.314898672319009e-05
 Protein processing in endoplasmic reticulum 	0.010796762123031394
-Other glycan degradation 	0.00019846514110276783
+Pathogenic Escherichia coli infection 	0.002262224162949112
+Bacterial invasion of epithelial cells 	4.054447817583331e-06
+Leukocyte transendothelial migration 	0.0018496320269887985
+Yersinia infection 	0.01016552489163691
+Platelet activation 	0.010058853408165154
 Pertussis 	0.001991811092847643
+Fc gamma R	0.005297677901384113
 Alcoholism 	0.014827470588105657
 Focal adhesion 	0.0102653288342095
-Leukocyte transendothelial migration 	0.0018496320269887985
-Bacterial invasion of epithelial cells 	4.054447817583331e-06
-Tight junction 	7.892938300958897e-05
-Pathogenic Escherichia coli infection 	0.002262224162949112
-Endocytosis 	0.000753990549518373
-Dopaminergic synapse 	0.01016552489163691
-Platelet activation 	0.010058853408165154
-cGMP	0.01016552489163691
-Vascular smooth muscle contraction 	0.03363302695155264
-Lysosome 	1.3998779237095836e-06
-Oxytocin signaling pathway 	0.03919603283592116
-Yersinia infection 	0.01016552489163691
-Shigellosis 	0.0007044684575344609
-Fc gamma R	0.005297677901384113
 Phagosome 	0.010796762123031394
+Tight junction 	7.892938300958897e-05
+Oxytocin signaling pathway 	0.03919603283592116
+Shigellosis 	0.0007044684575344609
+Dopaminergic synapse 	0.01016552489163691
+Other glycan degradation 	0.00019846514110276783
+cGMP	0.01016552489163691
+Adrenergic signaling in cardiomyocytes 	0.0018496320269887985
+Regulation of actin cytoskeleton 	5.518990210514555e-08
+Vascular smooth muscle contraction 	0.03363302695155264
+Salmonella infection 	8.314898672319009e-05
+Lysosome 	1.3998779237095836e-06
+Proteoglycans in cancer 	0.010796762123031394
+Hippo signaling pathway 	0.030596014831669682
+Endocytosis 	0.000753990549518373
